@@ -58,33 +58,33 @@
                   </rdg>
                   <rdg source="#source_2">
 
-                        <staffGrp xml:id="syc3wt6">
+                        <staffGrp>
                            <staffGrp symbol="line">
-                           <staffDef xml:id="P1" n="1" lines="5" ppq="4">
-                              <label xml:id="lj8y1rm">Voice 1</label>
-                              <clef xml:id="c1q6cj6d" shape="G" line="2" />
-                              <keySig xml:id="k1vyj276" mode="major" sig="0" />
-                              <meterSig xml:id="m1fghrhj" count="4" unit="4" />
+                           <staffDef n="1" lines="5" ppq="4">
+                              <label>Voice 1</label>
+                              <clef shape="G" line="2" />
+                              <keySig mode="major" sig="0" />
+                              <meterSig count="4" unit="4" />
                            </staffDef>
-                           <staffDef xml:id="P2" n="2" lines="5" ppq="4">
-                              <label xml:id="l1e2u58e">Voice 2</label>
-                              <clef xml:id="cq85t2j" shape="G" line="2" />
-                              <keySig xml:id="kh4qihi" mode="major" sig="0" />
-                              <meterSig xml:id="mi34oye" count="4" unit="4" />
+                           <staffDef n="2" lines="5" ppq="4">
+                              <label>Voice 2</label>
+                              <clef shape="G" line="2" />
+                              <keySig mode="major" sig="0" />
+                              <meterSig count="4" unit="4" />
                            </staffDef>
                         </staffGrp>
-                           <staffGrp xml:id="P3" bar.thru="true">
-                              <grpSym xml:id="g11duk1p" symbol="brace" />
-                              <label xml:id="lglhak8">Piano</label>
-                              <staffDef xml:id="sxmm2ky" n="3" lines="5" ppq="4" scale="50%">
-                                 <clef xml:id="c15rnoqk" shape="G" line="2" />
-                                 <keySig xml:id="k1751fw8" mode="major" sig="0" />
-                                 <meterSig xml:id="mh6fuw1" count="4" unit="4" />
+                           <staffGrp bar.thru="true">
+                              <grpSym symbol="brace" />
+                              <label>Piano</label>
+                              <staffDef n="3" lines="5" ppq="4" scale="50%">
+                                 <clef shape="G" line="2" />
+                                 <keySig mode="major" sig="0" />
+                                 <meterSig count="4" unit="4" />
                               </staffDef>
-                              <staffDef xml:id="s1tnl653" n="4" lines="5" ppq="4" scale="50%">
-                                 <clef xml:id="c5djqzj" shape="F" line="4" />
-                                 <keySig xml:id="k1se2t5i" mode="major" sig="0" />
-                                 <meterSig xml:id="m1cqg5yc" count="4" unit="4" />
+                              <staffDef n="4" lines="5" ppq="4" scale="50%">
+                                 <clef shape="F" line="4" />
+                                 <keySig mode="major" sig="0" />
+                                 <meterSig count="4" unit="4" />
                               </staffDef>
                            </staffGrp>
                         </staffGrp>
