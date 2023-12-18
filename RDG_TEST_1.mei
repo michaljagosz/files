@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead xml:id="mo3v3xm">
+      <fileDesc xml:id="f1settn">
+         <pubStmt xml:id="pyzw7dt">
+            <date isodate="2023-12-16" type="encoding-date">2023-12-16</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="exql3mf">
+         <appInfo xml:id="a5zy3ll">
+            <application xml:id="a1s5wldk" isodate="2023-12-16T02:17:06" version="4.2.0-dev-c4eb5b0">
+               <name xml:id="n1x8y1ha">Verovio</name>
+               <p xml:id="pgzbf6e">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mitbz33">
+            <score xml:id="ssazsfw">
+               <app>
+                  <rdg source="#source_1">
+                     <scoreDef xml:id="s1sv5i1w">
+                        <staffGrp xml:id="syc3wt6">
+                           <staffGrp symbol="line">
+                           <staffDef xml:id="P1" n="1" lines="5" ppq="4">
+                              <label xml:id="lj8y1rm">Voice 1</label>
+                              <clef xml:id="c1q6cj6d" shape="G" line="2" />
+                              <keySig xml:id="k1vyj276" mode="major" sig="0" />
+                              <meterSig xml:id="m1fghrhj" count="4" unit="4" />
+                           </staffDef>
+                           <staffDef xml:id="P2" n="2" lines="5" ppq="4">
+                              <label xml:id="l1e2u58e">Voice 2</label>
+                              <clef xml:id="cq85t2j" shape="G" line="2" />
+                              <keySig xml:id="kh4qihi" mode="major" sig="0" />
+                              <meterSig xml:id="mi34oye" count="4" unit="4" />
+                           </staffDef>
+                        </staffGrp>
+                           <staffGrp xml:id="P3" bar.thru="true">
+                              <grpSym xml:id="g11duk1p" symbol="brace" />
+                              <label xml:id="lglhak8">Piano</label>
+                              <staffDef xml:id="sxmm2ky" n="3" lines="5" ppq="4">
+                                 <clef xml:id="c15rnoqk" shape="G" line="2" />
+                                 <keySig xml:id="k1751fw8" mode="major" sig="0" />
+                                 <meterSig xml:id="mh6fuw1" count="4" unit="4" />
+                              </staffDef>
+                              <staffDef xml:id="s1tnl653" n="4" lines="5" ppq="4">
+                                 <clef xml:id="c5djqzj" shape="F" line="4" />
+                                 <keySig xml:id="k1se2t5i" mode="major" sig="0" />
+                                 <meterSig xml:id="m1cqg5yc" count="4" unit="4" />
+                              </staffDef>
+                           </staffGrp>
+                        </staffGrp>
+                     </scoreDef>
+                  </rdg>
+                  <rdg source="#source_2">
+                     <scoreDef xml:id="s1sv5i1w">
+                        <staffGrp xml:id="syc3wt6">
+                           <staffGrp symbol="line">
+                           <staffDef xml:id="P1" n="1" lines="5" ppq="4">
+                              <label xml:id="lj8y1rm">Voice 1</label>
+                              <clef xml:id="c1q6cj6d" shape="G" line="2" />
+                              <keySig xml:id="k1vyj276" mode="major" sig="0" />
+                              <meterSig xml:id="m1fghrhj" count="4" unit="4" />
+                           </staffDef>
+                           <staffDef xml:id="P2" n="2" lines="5" ppq="4">
+                              <label xml:id="l1e2u58e">Voice 2</label>
+                              <clef xml:id="cq85t2j" shape="G" line="2" />
+                              <keySig xml:id="kh4qihi" mode="major" sig="0" />
+                              <meterSig xml:id="mi34oye" count="4" unit="4" />
+                           </staffDef>
+                        </staffGrp>
+                           <staffGrp xml:id="P3" bar.thru="true">
+                              <grpSym xml:id="g11duk1p" symbol="brace" />
+                              <label xml:id="lglhak8">Piano</label>
+                              <staffDef xml:id="sxmm2ky" n="3" lines="5" ppq="4" scale="50%">
+                                 <clef xml:id="c15rnoqk" shape="G" line="2" />
+                                 <keySig xml:id="k1751fw8" mode="major" sig="0" />
+                                 <meterSig xml:id="mh6fuw1" count="4" unit="4" />
+                              </staffDef>
+                              <staffDef xml:id="s1tnl653" n="4" lines="5" ppq="4" scale="50%">
+                                 <clef xml:id="c5djqzj" shape="F" line="4" />
+                                 <keySig xml:id="k1se2t5i" mode="major" sig="0" />
+                                 <meterSig xml:id="m1cqg5yc" count="4" unit="4" />
+                              </staffDef>
+                           </staffGrp>
+                        </staffGrp>
+                     </scoreDef>
+                  </rdg>
+               </app>
+               <section xml:id="s1athn1d">
+                  <measure xml:id="m1sen7io" n="1">
+                     <staff xml:id="s176ghgj" n="1">
+                        <layer xml:id="l1dx61fc" n="1">
+                           <rest xml:id="rvc0hcu" dur="1" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="svbw02p" n="2">
+                        <layer xml:id="l12cpox2" n="1">
+                           <rest xml:id="r1vkw95x" dur="1" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sormw9s" n="3">
+                        <layer xml:id="l1vx36y6" n="1">
+                           <rest xml:id="r1p4po7k" dur="1" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="swbto1z" n="4">
+                        <layer xml:id="lscxf2s" n="2">
+                           <rest xml:id="r1gjci2f" dur="1" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m14ikump" n="2">
+                     <staff xml:id="sn0xmr9" n="1">
+                        <layer xml:id="l1cdj83b" n="1">
+                           <rest xml:id="rl0ln1" dur="1" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s88tn3k" n="2">
+                        <layer xml:id="l13xhebe" n="1">
+                           <rest xml:id="re48byn" dur.ppq="16" dur="1" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s2wj92b" n="3">
+                        <layer xml:id="l499cyq" n="1">
+                           <rest xml:id="r1yj2bnx" dur.ppq="16" dur="1" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1lu1099" n="4">
+                        <layer xml:id="l18r5yjr" n="2">
+                           <rest xml:id="r1xku5u7" dur.ppq="16" dur="1" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m3wmlen" n="3">
+                     <staff xml:id="se6vy2w" n="1">
+                        <layer xml:id="l106tsec" n="1">
+                           <rest xml:id="r1v6714v" dur.ppq="16" dur="1" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="se82np3" n="2">
+                        <layer xml:id="l7jpyds" n="1">
+                           <rest xml:id="r7aoevz" dur.ppq="16" dur="1" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1ifp6k8" n="3">
+                        <layer xml:id="lawaim1" n="1">
+                           <rest xml:id="rui73xm" dur.ppq="16" dur="1" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1rwtr7d" n="4">
+                        <layer xml:id="lfokv7z" n="2">
+                           <rest xml:id="r17ec7o4" dur.ppq="16" dur="1" />
+                        </layer>
+                     </staff>
+                  </measure>
+                  <measure xml:id="m1rq8z68" right="end" n="4">
+                     <staff xml:id="sa9u4vw" n="1">
+                        <layer xml:id="l1avel37" n="1">
+                           <rest xml:id="rx71fmz" dur.ppq="16" dur="1" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s32mi83" n="2">
+                        <layer xml:id="lap49qg" n="1">
+                           <rest xml:id="rptoxvo" dur.ppq="16" dur="1" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="sn77epe" n="3">
+                        <layer xml:id="l4b0f98" n="1">
+                           <rest xml:id="rjtt1mn" dur.ppq="16" dur="1" />
+                        </layer>
+                     </staff>
+                     <staff xml:id="s1qqbrq9" n="4">
+                        <layer xml:id="l1ii96hv" n="2">
+                           <rest xml:id="rixmjnh" dur.ppq="16" dur="1" />
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
