@@ -21,9 +21,11 @@
       <body>
          <mdiv xml:id="mitbz33">
             <score xml:id="ssazsfw">
+               <app>
+                  <rdg source="#source_1">
+
                <scoreDef xml:id="s1sv5i1w">
-                  <app>
-                     <rdg source="#source_1">
+
                         <staffGrp xml:id="syc3wt6">
                            <staffGrp symbol="line">
                            <staffDef xml:id="P1" n="1" lines="5" ppq="4">
@@ -54,10 +56,10 @@
                               </staffDef>
                            </staffGrp>
                         </staffGrp>
-
+               </scoreDef>
                   </rdg>
                   <rdg source="#source_2">
-
+               <scoreDef>
                         <staffGrp>
                            <staffGrp symbol="line">
                            <staffDef n="1" lines="5" ppq="4">
@@ -88,10 +90,10 @@
                               </staffDef>
                            </staffGrp>
                         </staffGrp>
-
+               </scoreDef>
                   </rdg>
                </app>
-            </scoreDef>
+
                <section xml:id="s1athn1d">
                   <measure xml:id="m1sen7io" n="1">
                      <staff xml:id="s176ghgj" n="1">
