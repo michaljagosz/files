@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
@@ -112,7 +112,14 @@
                         <layer xml:id="lry6u0d" n="2">
                            <note xml:id="n151zoyj" dur.ppq="4" dur="4" oct="3" pname="c" stem.dir="up" />
                            <rest xml:id="r3w1xaz" dur.ppq="4" dur="4" />
-                           <note xml:id="n1u5r008" dur.ppq="4" dur="4" oct="2" pname="g" stem.dir="up" />
+                           <app>
+                           <rdg source="ver1">
+                              <note xml:id="n1u5r008" dur.ppq="4" dur="4" oct="2" pname="g" stem.dir="up" />
+                           </rdg>
+                           <rdg source="ver2">
+                              <note xml:id="n1u5r008" dur.ppq="4" dur="4" oct="3" pname="g" stem.dir="up" />
+                           </rdg>
+                           </app>
                            <rest xml:id="r180kcjv" dur.ppq="4" dur="4" />
                         </layer>
                      </staff>
