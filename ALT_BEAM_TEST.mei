@@ -84,8 +84,14 @@
                            </app>
                         </layer>
                      </staff>
-                                    <slur xml:id="s12fmyh7" startid="#nl14zyo" endid="#n12on7d4" curvedir="above" />
-                                    <slur xml:id="s14mksfn" startid="#ncbgx0w" endid="#ne0zfir" curvedir="above" />
+                        <app>
+                           <rdg source="orig">
+                           </rdg>
+                           <rdg source="alt">
+                              <slur xml:id="s12fmyh7" startid="#nl14zyo" endid="#n12on7d4" curvedir="above" />
+                              <slur xml:id="s14mksfn" startid="#ncbgx0w" endid="#ne0zfir" curvedir="above" />
+                           </rdg>
+                        </app>
                      <staff xml:id="s1nl7pt5" n="2">
                         <layer xml:id="lck0qqj" n="1">
                            <beam xml:id="bemvg1w">
