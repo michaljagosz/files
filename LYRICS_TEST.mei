@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
@@ -71,7 +71,7 @@
                                     </verse>
                                  </rdg>
                                  <rdg source="eng">
-                                    <verse>
+                                    <verse n="3">
                                        <syl xml:id="s1m1n32i" con="d" wordpos="i">Tłu</syl>
                                     </verse>
                                  </rdg>
@@ -108,8 +108,8 @@
                                  <syl xml:id="ssknvtq" con="s" wordpos="t">cja</syl>
                               </verse>
                            </rdg>
-                           <rdg source="eng" n="3">
-                              <verse>
+                           <rdg source="eng">
+                              <verse n="3">
                                  <syl xml:id="s12x6osa" con="d" wordpos="m">cze</syl>
                               </verse>
                               </rdg>
