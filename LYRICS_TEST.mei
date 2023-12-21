@@ -65,7 +65,7 @@
                                        <syl xml:id="sm6vxhz" con="d" wordpos="i">O</syl>
                                     </verse>
                                  </rdg>
-                                 <rdg source="pl-ipa">
+                                 <rdg source="ipa">
                                     <verse n="2">
                                        <syl xml:id="s34wgm1" con="d" wordpos="i">Trans</syl>
                                     </verse>
@@ -84,7 +84,7 @@
                                  <syl xml:id="su0jtuu" con="d" wordpos="m">ry</syl>
                               </verse>
                                  </rdg>
-                                 <rdg source="pl-ipa">
+                                 <rdg source="ipa">
                               <verse n="2">
                                  <syl xml:id="s555rzf" con="d" wordpos="m">kryp</syl>
                               </verse>
@@ -103,7 +103,7 @@
                                  <syl xml:id="s1f66pzl" con="d" wordpos="m">gi</syl>
                               </verse>
                            </rdg>
-                           <rdg source="pl-ipa">
+                           <rdg source="ipa">
                               <verse n="2">
                                  <syl xml:id="ssknvtq" con="s" wordpos="t">cja</syl>
                               </verse>
@@ -122,7 +122,7 @@
                                  <syl xml:id="s1vko5v8" con="s" wordpos="t">nał</syl>
                               </verse>
                            </rdg>
-                           <rdg source="pl-ipa">
+                           <rdg source="ipa">
                               <verse n="2">
                                  <syl xml:id="s1gxg79h" con="s" wordpos="s">IPA</syl>
                               </verse>
