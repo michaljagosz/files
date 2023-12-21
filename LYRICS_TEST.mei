@@ -70,7 +70,7 @@
                               <app>
                                  <rdg/>
                                  <rdg source="ipa">
-                                    <verse n="2">
+                                    <verse n="1">
                                        <syl xml:id="s34wgm1" con="d" wordpos="i">Trans</syl>
                                     </verse>
                                  </rdg>
@@ -78,7 +78,7 @@
                                  <app>
                                     <rdg/>
                                  <rdg source="eng">
-                                    <verse n="3">
+                                    <verse n="1">
                                        <syl xml:id="s1m1n32i" con="d" wordpos="i">Tłu</syl>
                                     </verse>
                                  </rdg>
@@ -96,7 +96,7 @@
                               <app>
                                  <rdg/>
                                  <rdg source="ipa">
-                              <verse n="2">
+                              <verse n="1">
                                  <syl xml:id="s555rzf" con="d" wordpos="m">kryp</syl>
                               </verse>
                               </rdg>
@@ -104,7 +104,7 @@
                            <app>
                               <rdg/>
                               <rdg source="eng">
-                              <verse n="3">
+                              <verse n="1">
                                  <syl xml:id="s5bzo9v" con="d" wordpos="m">ma</syl>
                               </verse>
                               </rdg>
@@ -122,7 +122,7 @@
                         <app>
                            <rdg/>
                            <rdg source="ipa">
-                              <verse n="2">
+                              <verse n="1">
                                  <syl xml:id="ssknvtq" con="s" wordpos="t">cja</syl>
                               </verse>
                            </rdg>
@@ -130,7 +130,7 @@
                         <app>
                            <rdg/>
                            <rdg source="eng">
-                              <verse n="3">
+                              <verse n="1">
                                  <syl xml:id="s12x6osa" con="d" wordpos="m">cze</syl>
                               </verse>
                               </rdg>
@@ -148,7 +148,7 @@
                         <app>
                            <rdg/>
                            <rdg source="ipa">
-                              <verse n="2">
+                              <verse n="1">
                                  <syl xml:id="s1gxg79h" con="s" wordpos="s">IPA</syl>
                               </verse>
                            </rdg>
@@ -156,7 +156,7 @@
                         <app>
                            <rdg/>
                            <rdg source="eng">
-                              <verse n="3">
+                              <verse n="1">
                                  <syl xml:id="s1ryh6ij" con="s" wordpos="t">nie</syl>
                               </verse>
                            </rdg>
