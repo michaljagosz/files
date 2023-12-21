@@ -60,17 +60,17 @@
                         <layer xml:id="l1oxpvt7" n="1">
                            <note xml:id="n1r78d5h" dur.ppq="4" dur="4" oct="4" pname="g" stem.dir="up">
                               <app>
-                                 <rdg type="pol">
+                                 <rdg source="pol">
                                     <verse xml:id="vorrkx8" n="1">
                                        <syl xml:id="sm6vxhz" con="d" wordpos="i">O</syl>
                                     </verse>
                                  </rdg>
-                                 <rdg type="pl-ipa">
+                                 <rdg source="pl-ipa">
                                     <verse xml:id="v17haql4" n="2">
                                        <syl xml:id="s34wgm1" con="d" wordpos="i">Trans</syl>
                                     </verse>
                                  </rdg>
-                                 <rdg type="eng">
+                                 <rdg source="eng">
                                     <verse xml:id="vkzhtxo" n="3">
                                        <syl xml:id="s1m1n32i" con="d" wordpos="i">Tłu</syl>
                                     </verse>
