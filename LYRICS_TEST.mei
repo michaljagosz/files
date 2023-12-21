@@ -61,17 +61,17 @@
                            <note xml:id="n1r78d5h" dur.ppq="4" dur="4" oct="4" pname="g" stem.dir="up">
                               <app>
                                  <rdg source="pol">
-                                    <verse n="1">
+                                    <verse>
                                        <syl xml:id="sm6vxhz" con="d" wordpos="i">O</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="ipa">
-                                    <verse n="2">
+                                    <verse>
                                        <syl xml:id="s34wgm1" con="d" wordpos="i">Trans</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="eng">
-                                    <verse n="3">
+                                    <verse>
                                        <syl xml:id="s1m1n32i" con="d" wordpos="i">Tłu</syl>
                                     </verse>
                                  </rdg>
@@ -80,17 +80,17 @@
                            <note xml:id="n19uegal" dur.ppq="4" dur="4" oct="4" pname="g" stem.dir="up">
                               <app>
                                  <rdg source="pol">
-                              <verse n="1">
+                              <verse>
                                  <syl xml:id="su0jtuu" con="d" wordpos="m">ry</syl>
                               </verse>
                                  </rdg>
                                  <rdg source="ipa">
-                              <verse n="2">
+                              <verse>
                                  <syl xml:id="s555rzf" con="d" wordpos="m">kryp</syl>
                               </verse>
                               </rdg>
                               <rdg source="eng">
-                              <verse n="3">
+                              <verse>
                                  <syl xml:id="s5bzo9v" con="d" wordpos="m">ma</syl>
                               </verse>
                               </rdg>
@@ -99,17 +99,17 @@
                            <note xml:id="n1d91dsv" dur.ppq="4" dur="4" oct="4" pname="g" stem.dir="up">
                               <app>
                                  <rdg source="pol">
-                              <verse n="1">
+                              <verse>
                                  <syl xml:id="s1f66pzl" con="d" wordpos="m">gi</syl>
                               </verse>
                            </rdg>
                            <rdg source="ipa">
-                              <verse n="2">
+                              <verse>
                                  <syl xml:id="ssknvtq" con="s" wordpos="t">cja</syl>
                               </verse>
                            </rdg>
                            <rdg source="eng">
-                              <verse n="3">
+                              <verse>
                                  <syl xml:id="s12x6osa" con="d" wordpos="m">cze</syl>
                               </verse>
                               </rdg>
@@ -118,17 +118,17 @@
                            <note xml:id="nv93hs8" dur.ppq="4" dur="4" oct="4" pname="g" stem.dir="up">
                               <app>
                                  <rdg source="pol">
-                              <verse n="1">
+                              <verse>
                                  <syl xml:id="s1vko5v8" con="s" wordpos="t">nał</syl>
                               </verse>
                            </rdg>
                            <rdg source="ipa">
-                              <verse n="2">
+                              <verse>
                                  <syl xml:id="s1gxg79h" con="s" wordpos="s">IPA</syl>
                               </verse>
                            </rdg>
                            <rdg source="eng">
-                              <verse n="3">
+                              <verse>
                                  <syl xml:id="s1ryh6ij" con="s" wordpos="t">nie</syl>
                               </verse>
                            </rdg>
