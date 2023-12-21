@@ -60,16 +60,23 @@
                         <layer xml:id="l1oxpvt7" n="1">
                            <note xml:id="n1r78d5h" dur.ppq="4" dur="4" oct="4" pname="g" stem.dir="up">
                               <app>
+                                 <rdg/>
                                  <rdg source="pol">
                                     <verse>
                                        <syl xml:id="sm6vxhz" con="d" wordpos="i">O</syl>
                                     </verse>
                                  </rdg>
+                              </app>
+                              <app>
+                                 <rdg/>
                                  <rdg source="ipa">
                                     <verse>
                                        <syl xml:id="s34wgm1" con="d" wordpos="i">Trans</syl>
                                     </verse>
                                  </rdg>
+                                 <app>
+                                    <rdg/>
+                                 </app>
                                  <rdg source="eng">
                                     <verse>
                                        <syl xml:id="s1m1n32i" con="d" wordpos="i">Tłu</syl>
