@@ -62,52 +62,52 @@
                               <app>
                                  <rdg type="pol">
                                     <verse xml:id="vorrkx8" n="1">
-                                       <syl xml:id="sm6vxhz" con="d" wordpos="i" xml:lang="pol">O</syl>
+                                       <syl xml:id="sm6vxhz" con="d" wordpos="i">O</syl>
                                     </verse>
                                  </rdg>
                                  <rdg type="pl-ipa">
                                     <verse xml:id="v17haql4" n="2">
-                                       <syl xml:id="s34wgm1" con="d" wordpos="i" xml:lang="pl-ipa">Trans</syl>
+                                       <syl xml:id="s34wgm1" con="d" wordpos="i">Trans</syl>
                                     </verse>
                                  </rdg>
                                  <rdg type="eng">
                                     <verse xml:id="vkzhtxo" n="3">
-                                       <syl xml:id="s1m1n32i" con="d" wordpos="i" xml:lang="eng" type="tl">Tłu</syl>
+                                       <syl xml:id="s1m1n32i" con="d" wordpos="i">Tłu</syl>
                                     </verse>
                                  </rdg>
                               </app>
                            </note>
                            <note xml:id="n19uegal" dur.ppq="4" dur="4" oct="4" pname="g" stem.dir="up">
                               <verse xml:id="v14ausrn" n="1">
-                                 <syl xml:id="su0jtuu" con="d" wordpos="m" xml:lang="pol">ry</syl>
+                                 <syl xml:id="su0jtuu" con="d" wordpos="m">ry</syl>
                               </verse>
                               <verse xml:id="vydcmkq" n="2">
-                                 <syl xml:id="s555rzf" con="d" wordpos="m" xml:lang="pl-ipa">kryp</syl>
+                                 <syl xml:id="s555rzf" con="d" wordpos="m">kryp</syl>
                               </verse>
                               <verse xml:id="vqin9ku" n="3">
-                                 <syl xml:id="s5bzo9v" con="d" wordpos="m" xml:lang="eng" type="tl">ma</syl>
+                                 <syl xml:id="s5bzo9v" con="d" wordpos="m">ma</syl>
                               </verse>
                            </note>
                            <note xml:id="n1d91dsv" dur.ppq="4" dur="4" oct="4" pname="g" stem.dir="up">
                               <verse xml:id="v1fhzbbx" n="1">
-                                 <syl xml:id="s1f66pzl" con="d" wordpos="m" xml:lang="pol">gi</syl>
+                                 <syl xml:id="s1f66pzl" con="d" wordpos="m">gi</syl>
                               </verse>
                               <verse xml:id="v1a8nurg" n="2">
-                                 <syl xml:id="ssknvtq" con="s" wordpos="t" xml:lang="pl-ipa">cja</syl>
+                                 <syl xml:id="ssknvtq" con="s" wordpos="t">cja</syl>
                               </verse>
                               <verse xml:id="v1m5g2y6" n="3">
-                                 <syl xml:id="s12x6osa" con="d" wordpos="m" xml:lang="eng" type="tl">cze</syl>
+                                 <syl xml:id="s12x6osa" con="d" wordpos="m">cze</syl>
                               </verse>
                            </note>
                            <note xml:id="nv93hs8" dur.ppq="4" dur="4" oct="4" pname="g" stem.dir="up">
                               <verse xml:id="vu2goaf" n="1">
-                                 <syl xml:id="s1vko5v8" con="s" wordpos="t" xml:lang="pol">nał</syl>
+                                 <syl xml:id="s1vko5v8" con="s" wordpos="t">nał</syl>
                               </verse>
                               <verse xml:id="v1ls4q7q" n="2">
-                                 <syl xml:id="s1gxg79h" con="s" wordpos="s" xml:lang="pl-ipa">IPA</syl>
+                                 <syl xml:id="s1gxg79h" con="s" wordpos="s">IPA</syl>
                               </verse>
                               <verse xml:id="v1pzvonx" n="3">
-                                 <syl xml:id="s1ryh6ij" con="s" wordpos="t" xml:lang="eng" type="tl">nie</syl>
+                                 <syl xml:id="s1ryh6ij" con="s" wordpos="t">nie</syl>
                               </verse>
                            </note>
                         </layer>
