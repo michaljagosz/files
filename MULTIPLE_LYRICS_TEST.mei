@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead xml:id="m1i3o9ml">
+      <fileDesc xml:id="f3cyyed">
+         <pubStmt xml:id="p1ty7wpj">
+            <date isodate="2023-12-22" type="encoding-date">2023-12-22</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="e1cwzehf">
+         <appInfo xml:id="a3acnvd">
+            <application xml:id="abhgl3i" isodate="2023-12-22T23:33:58" version="4.2.0-dev-3ded68c">
+               <name xml:id="n1qq5hak">Verovio</name>
+               <p xml:id="p1ymaem4">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m103e07b">
+            <score xml:id="sf47s38">
+               <scoreDef xml:id="s3z2v4y">
+                  <staffGrp xml:id="sajtd4f">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="4">
+                        <clef xml:id="c1x69nmc" shape="G" line="2" />
+                        <keySig xml:id="k1vkvi37" mode="major" sig="0" />
+                        <meterSig xml:id="m165n0tg" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="s1b1bfwj">
+                  <measure xml:id="m1hoqz14" right="end" n="1">
+                     <staff xml:id="s1pzmt8o" n="1">
+                        <layer xml:id="lnug53" n="1">
+                           <note xml:id="n2khtx5" dur.ppq="16" dur="1" oct="4" pname="c" stem.dir="up">
+                           <app>
+                              <rdg source="lang-1-pol">
+                                 <verse n="1">
+                                    <syl con="s" wordpos="s">POL</syl>
+                                 </verse>
+                              </rdg>
+                              <rdg source="lang-1-ipa">
+                                 <verse n="1">
+                                    <syl con="s" wordpos="s">IPA</syl>
+                                 </verse>
+                              </rdg>
+                              <rdg source="lang-2-eng">
+                                 <verse n="1">
+                                    <syl con="s" wordpos="s">ENG</syl>
+                                 </verse>
+                              </rdg>
+                           </app>
+                           <app>
+                              <rdg/>
+                              <rdg source="lang-2-pol">
+                                 <verse n="2">
+                                    <syl con="s" wordpos="s">POL</syl>
+                                 </verse>
+                              </rdg>
+                              <rdg source="lang-2-ipa">
+                                 <verse n="2">
+                                    <syl con="s" wordpos="s">IPA</syl>
+                                 </verse>
+                              </rdg>
+                              <rdg source="lang-2-eng">
+                                 <verse n="2">
+                                    <syl con="s" wordpos="s">ENG</syl>
+                                 </verse>
+                              </rdg>
+                           </app>
+                           <app>
+                              <rdg/>
+                              <rdg source="lang-3-pol">
+                                 <verse n="3">
+                                    <syl con="s" wordpos="s">POL</syl>
+                                 </verse>
+                              </rdg>
+                              <rdg source="lang-3-ipa">
+                                 <verse n="3">
+                                    <syl con="s" wordpos="s">IPA</syl>
+                                 </verse>
+                              </rdg>
+                              <rdg source="lang-3-eng">
+                                 <verse n="3">
+                                    <syl con="s" wordpos="s">ENG</syl>
+                                 </verse>
+                              </rdg>
+                           </app>
+                           </note>
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
