@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead xml:id="m1wiz6ae">
+      <fileDesc xml:id="f1mxn2w7">
+         <pubStmt xml:id="p1rjzm00">
+            <date isodate="2023-12-22" type="encoding-date">2023-12-22</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="eg9pnus">
+         <appInfo xml:id="a1ghzcx9">
+            <application xml:id="a2974la" isodate="2023-12-24T23:12:09" version="4.2.0-dev-30563af">
+               <name xml:id="n1n0i10g">Verovio</name>
+               <p xml:id="p13zotmv">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="mje0z08">
+            <score xml:id="swb2oto">
+               <scoreDef xml:id="s1s5rnp3">
+                  <staffGrp xml:id="s374w1e">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="4">
+                        <clef xml:id="c1406ylf" shape="G" line="2" />
+                        <keySig xml:id="kxfi95x" mode="major" sig="0" />
+                        <meterSig xml:id="mgyka7d" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="susp12w">
+                  <measure xml:id="m16nieot" right="end" n="1">
+                     <staff xml:id="siezuhv" n="1">
+                        <layer xml:id="l9svlb2" n="1">
+                           <app>
+                              <rdg source="lang-1-pol lang-1-ipa">
+                                 <note dur.ppq="16" dur="1" oct="4" pname="c" stem.dir="up">
+                                    <app>
+                                       <rdg source="lang-1-pol">
+                                          <verse n="1">
+                                             <syl con="s" wordpos="s">POL</syl>
+                                          </verse>
+                                       </rdg>
+                                       <rdg source="lang-1-ipa">
+                                          <verse n="1">
+                                             <syl con="s" wordpos="s">IPA</syl>
+                                          </verse>
+                                       </rdg>
+                                    </app>
+                                 </note>
+                              </rdg>
+                              <rdg source="lang-1-eng">
+                                 <note dur="2" oct="4" pname="c" stem.dir="up">
+                                    <verse n="1">
+                                       <syl con="s" wordpos="s">ENG_1</syl>
+                                    </verse>
+                                 </note>
+                                 <note dur="2" oct="4" pname="c" stem.dir="up">
+                                    <verse n="1">
+                                       <syl con="s" wordpos="s">ENG_2</syl>
+                                    </verse>
+                                 </note>
+                              </rdg>
+                           </app>
+
+                           <app>
+                              <rdg source="lang-2-pol lang-2-ipa">
+                                 <note dur.ppq="16" dur="1" oct="4" pname="c" stem.dir="up">
+                                    <app>
+                                       <rdg source="lang-2-pol">
+                                          <verse n="2">
+                                             <syl con="s" wordpos="s">POL</syl>
+                                          </verse>
+                                       </rdg>
+                                       <rdg source="lang-2-ipa">
+                                          <verse n="2">
+                                             <syl con="s" wordpos="s">IPA</syl>
+                                          </verse>
+                                       </rdg>
+                                    </app>
+                                 </note>
+                              </rdg>
+                              <rdg source="lang-2-eng">
+                                 <note dur="2" oct="4" pname="c" stem.dir="up">
+                                    <verse n="2">
+                                       <syl con="s" wordpos="s">ENG_1</syl>
+                                    </verse>
+                                 </note>
+                                 <note dur="2" oct="4" pname="c" stem.dir="up">
+                                    <verse n="2">
+                                       <syl con="s" wordpos="s">ENG_2</syl>
+                                    </verse>
+                                 </note>
+                              </rdg>
+                           </app>
+
+                           <app>
+                              <rdg source="lang-3-pol lang-3-ipa">
+                                 <note dur.ppq="16" dur="1" oct="4" pname="c" stem.dir="up">
+                                    <app>
+                                       <rdg source="lang-3-pol">
+                                          <verse n="3">
+                                             <syl con="s" wordpos="s">POL</syl>
+                                          </verse>
+                                       </rdg>
+                                       <rdg source="lang-3-ipa">
+                                          <verse n="3">
+                                             <syl con="s" wordpos="s">IPA</syl>
+                                          </verse>
+                                       </rdg>
+                                    </app>
+                                 </note>
+                              </rdg>
+                              <rdg source="lang-3-eng">
+                                 <note dur="2" oct="4" pname="c" stem.dir="up">
+                                    <verse n="3">
+                                       <syl con="s" wordpos="s">ENG_1</syl>
+                                    </verse>
+                                 </note>
+                                 <note dur="2" oct="4" pname="c" stem.dir="up">
+                                    <verse n="3">
+                                       <syl con="s" wordpos="s">ENG_2</syl>
+                                    </verse>
+                                 </note>
+                              </rdg>
+                           </app>
+
+                        </layer>
+                     </staff>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
