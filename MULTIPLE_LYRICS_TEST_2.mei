@@ -36,15 +36,15 @@
                         <layer xml:id="l9svlb2" n="1">
                            <app>
                               <rdg/>
-                              <rdg source="lang-1-pol lang-1-ipa">
+                              <rdg source="#lang.pol-1 lang.#ipa-1">
                                  <note dur.ppq="16" dur="1" oct="4" pname="c" stem.dir="up">
                                     <app>
-                                       <rdg source="lang-1-pol">
+                                       <rdg source="#lang.pol-1">
                                           <verse n="1">
                                              <syl con="s" wordpos="s">POL</syl>
                                           </verse>
                                        </rdg>
-                                       <rdg source="lang-1-ipa">
+                                       <rdg source="#lang.ipa-1">
                                           <verse n="1">
                                              <syl con="s" wordpos="s">IPA</syl>
                                           </verse>
@@ -52,7 +52,7 @@
                                     </app>
                                  </note>
                               </rdg>
-                              <rdg source="lang-1-eng">
+                              <rdg source="#lang.eng-1">
                                  <note dur="2" oct="4" pname="c" stem.dir="up">
                                     <verse n="1">
                                        <syl con="s" wordpos="s">ENG_1</syl>
@@ -68,15 +68,15 @@
 
                            <app>
                               <rdg/>
-                              <rdg source="lang-2-pol lang-2-ipa">
+                              <rdg source="#lang.pol-2 lang.#ipa-2">
                                  <note dur.ppq="16" dur="1" oct="4" pname="c" stem.dir="up">
                                     <app>
-                                       <rdg source="lang-2-pol">
+                                       <rdg source="#lang.pol-2">
                                           <verse n="2">
                                              <syl con="s" wordpos="s">POL</syl>
                                           </verse>
                                        </rdg>
-                                       <rdg source="lang-2-ipa">
+                                       <rdg source="#lang.ipa-2">
                                           <verse n="2">
                                              <syl con="s" wordpos="s">IPA</syl>
                                           </verse>
@@ -84,7 +84,7 @@
                                     </app>
                                  </note>
                               </rdg>
-                              <rdg source="lang-2-eng">
+                              <rdg source="#lang.eng-2">
                                  <note dur="2" oct="4" pname="c" stem.dir="up">
                                     <verse n="2">
                                        <syl con="s" wordpos="s">ENG_1</syl>
@@ -100,15 +100,15 @@
 
                            <app>
                               <rdg/>
-                              <rdg source="lang-3-pol lang-3-ipa">
+                              <rdg source="#lang.pol-3 lang.#ipa-3">
                                  <note dur.ppq="16" dur="1" oct="4" pname="c" stem.dir="up">
                                     <app>
-                                       <rdg source="lang-3-pol">
+                                       <rdg source="#lang.pol-3">
                                           <verse n="3">
                                              <syl con="s" wordpos="s">POL</syl>
                                           </verse>
                                        </rdg>
-                                       <rdg source="lang-3-ipa">
+                                       <rdg source="#lang.ipa-3">
                                           <verse n="3">
                                              <syl con="s" wordpos="s">IPA</syl>
                                           </verse>
@@ -116,7 +116,7 @@
                                     </app>
                                  </note>
                               </rdg>
-                              <rdg source="lang-3-eng">
+                              <rdg source="#lang.eng-3">
                                  <note dur="2" oct="4" pname="c" stem.dir="up">
                                     <verse n="3">
                                        <syl con="s" wordpos="s">ENG_1</syl>
