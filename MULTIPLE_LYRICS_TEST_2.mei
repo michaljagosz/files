@@ -36,7 +36,7 @@
                         <layer xml:id="l9svlb2" n="1">
                            <app>
                               <rdg/>
-                              <rdg source="lang-1-pol lang-1-ipa">
+                              <rdg source="lang-1-pol">
                                  <note dur.ppq="16" dur="1" oct="4" pname="c" stem.dir="up">
                                     <app>
                                        <rdg/>
