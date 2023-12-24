@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
@@ -35,9 +35,11 @@
                      <staff xml:id="siezuhv" n="1">
                         <layer xml:id="l9svlb2" n="1">
                            <app>
+                              <rdg/>
                               <rdg source="lang-1-pol lang-1-ipa">
                                  <note dur.ppq="16" dur="1" oct="4" pname="c" stem.dir="up">
                                     <app>
+                                       <rdg/>
                                        <rdg source="lang-1-pol">
                                           <verse n="1">
                                              <syl con="s" wordpos="s">POL</syl>
@@ -66,9 +68,11 @@
                            </app>
 
                            <app>
+                              <rdg/>
                               <rdg source="lang-2-pol lang-2-ipa">
                                  <note dur.ppq="16" dur="1" oct="4" pname="c" stem.dir="up">
                                     <app>
+                                       <rdg/>
                                        <rdg source="lang-2-pol">
                                           <verse n="2">
                                              <syl con="s" wordpos="s">POL</syl>
@@ -97,9 +101,11 @@
                            </app>
 
                            <app>
+                              <rdg/>
                               <rdg source="lang-3-pol lang-3-ipa">
                                  <note dur.ppq="16" dur="1" oct="4" pname="c" stem.dir="up">
                                     <app>
+                                       <rdg/>
                                        <rdg source="lang-3-pol">
                                           <verse n="3">
                                              <syl con="s" wordpos="s">POL</syl>
