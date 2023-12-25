@@ -4,9 +4,21 @@
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
    <meiHead xml:id="m1wiz6ae">
       <fileDesc xml:id="f1mxn2w7">
-         <pubStmt xml:id="p1rjzm00">
-            <date isodate="2023-12-22" type="encoding-date">2023-12-22</date>
-         </pubStmt>
+         <titleStmt>
+            <title></title>
+         </titleStmt>
+         <pubStmt></pubStmt>
+         <sourceDesc>
+            <source xml:id="lang-1-pol"/>
+            <source xml:id="lang-1-ipa"/>
+            <source xml:id="lang-1-eng"/>
+            <source xml:id="lang-2-pol"/>
+            <source xml:id="lang-2-ipa"/>
+            <source xml:id="lang-2-eng"/>
+            <source xml:id="lang-3-pol"/>
+            <source xml:id="lang-4-ipa"/>
+            <source xml:id="lang-4-eng"/>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc xml:id="eg9pnus">
          <appInfo xml:id="a1ghzcx9">
