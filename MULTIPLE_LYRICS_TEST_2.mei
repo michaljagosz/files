@@ -96,7 +96,7 @@
                                        <syl con="s" wordpos="s">ENG_1</syl>
                                     </verse>
                                  </note>
-                                 <note dur="2" oct="4" pname="c" stem.dir="down" cue="true">
+                                 <note dur="2" oct="4" pname="c" stem.dir="down" cue="true" head.visible="false">
                                     <verse n="2">
                                        <syl con="s" wordpos="s">ENG_2</syl>
                                     </verse>
