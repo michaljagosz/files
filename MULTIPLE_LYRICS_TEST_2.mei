@@ -96,7 +96,7 @@
                               </layer>
                            </rdg>
                            <rdg source="lang-2-eng">
-                              <layer n="2">
+                              <layer n="3">
                                  <note dur="2" oct="4" pname="c" stem.dir="down" head.visible="false" stem.visible="false">
                                     <verse n="2">
                                        <syl con="s" wordpos="s">ENG_1</syl>
