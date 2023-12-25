@@ -97,12 +97,12 @@
                            </rdg>
                            <rdg source="lang-4-eng">
                               <layer n="3">
-                                 <note dur="2" oct="4" pname="c" stem.dir="down" head.visible="false" stem.visible="false">
+                                 <note dur="2" oct="4" pname="c" stem.dir="down">
                                     <verse n="2">
                                        <syl con="s" wordpos="s">ENG_1</syl>
                                     </verse>
                                  </note>
-                                 <note dur="2" oct="4" pname="c" stem.dir="down" head.visible="false" stem.visible="false">
+                                 <note dur="2" oct="4" pname="c" stem.dir="down">
                                     <verse n="2">
                                        <syl con="s" wordpos="s">ENG_2</syl>
                                     </verse>
