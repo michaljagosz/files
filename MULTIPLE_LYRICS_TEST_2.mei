@@ -73,7 +73,7 @@
                            <rdg/>
                            <rdg source="lang-2-pol lang-2-ipa">
                               <layer n="2">
-                                 <note dur.ppq="16" dur="1" oct="4" pname="c" stem.dir="up">
+                                 <note dur.ppq="16" dur="1" oct="4" pname="c" stem.dir="up" cue="true">
                                     <app>
                                        <rdg source="pang-2-pol">
                                           <verse n="2">
@@ -91,12 +91,12 @@
                            </rdg>
                            <rdg source="lang-2-eng">
                               <layer n="2">
-                                 <note dur="2" oct="4" pname="c" stem.dir="up">
+                                 <note dur="2" oct="4" pname="c" stem.dir="down" cue="true">
                                     <verse n="2">
                                        <syl con="s" wordpos="s">ENG_1</syl>
                                     </verse>
                                  </note>
-                                 <note dur="2" oct="4" pname="c" stem.dir="up">
+                                 <note dur="2" oct="4" pname="c" stem.dir="down" cue="true">
                                     <verse n="2">
                                        <syl con="s" wordpos="s">ENG_2</syl>
                                     </verse>
@@ -109,7 +109,7 @@
                            <rdg/>
                            <rdg source="lang-3-pol lang-3-ipa">
                               <layer n="2">
-                                 <note dur.ppq="16" dur="1" oct="4" pname="c" stem.dir="up">
+                                 <note dur.ppq="16" dur="1" oct="4" pname="c" stem.dir="up" cue="true">
                                     <app>
                                        <rdg source="pang-3-pol">
                                           <verse n="3">
@@ -127,12 +127,12 @@
                            </rdg>
                            <rdg source="lang-3-eng">
                               <layer n="2">
-                                 <note dur="2" oct="4" pname="c" stem.dir="up">
+                                 <note dur="2" oct="4" pname="c" stem.dir="down" cue="true">
                                     <verse n="3">
                                        <syl con="s" wordpos="s">ENG_1</syl>
                                     </verse>
                                  </note>
-                                 <note dur="2" oct="4" pname="c" stem.dir="up">
+                                 <note dur="2" oct="4" pname="c" stem.dir="down" cue="true">
                                     <verse n="3">
                                        <syl con="s" wordpos="s">ENG_2</syl>
                                     </verse>
