@@ -39,7 +39,7 @@
                               <layer n="1">
                                  <note dur.ppq="16" dur="1" oct="4" pname="c" stem.dir="up">
                                     <app>
-                                       <rdg source="pang-1-pol">
+                                       <rdg source="lang-1-pol">
                                           <verse n="1">
                                              <syl con="s" wordpos="s">POL</syl>
                                           </verse>
