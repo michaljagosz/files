@@ -37,17 +37,17 @@
                            <note xml:id="n2khtx5" dur.ppq="16" dur="1" oct="4" pname="c" stem.dir="up">
                            <app>
                               <rdg/>
-                              <rdg source="lang-1-pol">
+                              <rdg source="#lang-1-pol">
                                  <verse n="1">
                                     <syl con="s" wordpos="s">POL</syl>
                                  </verse>
                               </rdg>
-                              <rdg source="lang-1-ipa">
+                              <rdg source="#lang-1-ipa">
                                  <verse n="1">
                                     <syl con="s" wordpos="s">IPA</syl>
                                  </verse>
                               </rdg>
-                              <rdg source="lang-1-eng">
+                              <rdg source="#lang-1-eng">
                                  <verse n="1">
                                     <syl con="s" wordpos="s">ENG</syl>
                                  </verse>
@@ -55,17 +55,17 @@
                            </app>
                            <app>
                               <rdg/>
-                              <rdg source="lang-2-pol">
+                              <rdg source="#lang-2-pol">
                                  <verse n="2">
                                     <syl con="s" wordpos="s">POL</syl>
                                  </verse>
                               </rdg>
-                              <rdg source="lang-2-ipa">
+                              <rdg source="#lang-2-ipa">
                                  <verse n="2">
                                     <syl con="s" wordpos="s">IPA</syl>
                                  </verse>
                               </rdg>
-                              <rdg source="lang-2-eng">
+                              <rdg source="#lang-2-eng">
                                  <verse n="2">
                                     <syl con="s" wordpos="s">ENG</syl>
                                  </verse>
@@ -73,17 +73,17 @@
                            </app>
                            <app>
                               <rdg/>
-                              <rdg source="lang-3-pol">
+                              <rdg source="#lang-3-pol">
                                  <verse n="3">
                                     <syl con="s" wordpos="s">POL</syl>
                                  </verse>
                               </rdg>
-                              <rdg source="lang-3-ipa">
+                              <rdg source="#lang-3-ipa">
                                  <verse n="3">
                                     <syl con="s" wordpos="s">IPA</syl>
                                  </verse>
                               </rdg>
-                              <rdg source="lang-3-eng">
+                              <rdg source="#lang-3-eng">
                                  <verse n="3">
                                     <syl con="s" wordpos="s">ENG</syl>
                                  </verse>
