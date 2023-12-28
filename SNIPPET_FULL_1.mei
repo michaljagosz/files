@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
@@ -61,17 +61,17 @@
                                  <app>
                                     <rdg/>
                                     <rdg source="#lang-1-pol">
-                                       <verse>
+                                       <verse n="1">
                                           <syl con="s" wordpos="s">Ach</syl>
                                        </verse>
                                     </rdg>
                                     <rdg source="lang-1-ipa">
-                                       <verse>
+                                       <verse n="1">
                                           <syl con="s" wordpos="s">[ax]</syl>
                                        </verse>
                                     </rdg>
                                     <rdg source="#lang-1-ita">
-                                       <verse>
+                                       <verse n="1">
                                           <syl con="d" wordpos="i">Quan</syl>
                                        </verse>
                                     </rdg>
@@ -79,12 +79,12 @@
                                  <app>
                                     <rdg/>
                                     <rdg source="lang-2-ipa">
-                                       <verse>
+                                       <verse n="2">
                                           <syl con="s" wordpos="s">[ax]</syl>
                                        </verse>
                                     </rdg>
                                     <rdg source="#lang-2-ita">
-                                       <verse>
+                                       <verse n="2">
                                           <syl con="d" wordpos="i">Quan</syl>
                                        </verse>
                                     </rdg>
@@ -92,7 +92,7 @@
                                  <app>
                                     <rdg/>
                                     <rdg source="#lang-3-ita">
-                                       <verse>
+                                       <verse n="3">
                                           <syl con="d" wordpos="i">Quan</syl>
                                        </verse>
                                     </rdg>
@@ -102,17 +102,17 @@
                                  <app>
                                     <rdg/>
                                     <rdg source="#lang-1-pol">
-                                       <verse>
+                                       <verse n="1">
                                           <syl con="s" wordpos="s">jak</syl>
                                        </verse>
                                     </rdg>
                                     <rdg source="#lang-1-ipa">
-                                       <verse>
+                                       <verse n="1">
                                           <syl con="s" wordpos="s">[jak]</syl>
                                        </verse>
                                     </rdg>
                                     <rdg source="#lang-1-ita">
-                                       <verse>
+                                       <verse n="1">
                                           <syl con="s" wordpos="t">to_è</syl>
                                        </verse>
                                     </rdg>
@@ -120,12 +120,12 @@
                                  <app>
                                     <rdg/>
                                     <rdg source="#lang-2-ipa">
-                                       <verse>
+                                       <verse n="2">
                                           <syl con="s" wordpos="s">[jak]</syl>
                                        </verse>
                                     </rdg>
                                     <rdg source="#lang-2-ita">
-                                       <verse>
+                                       <verse n="2">
                                           <syl con="s" wordpos="t">to_è</syl>
                                        </verse>
                                     </rdg>
@@ -133,7 +133,7 @@
                                  <app>
                                     <rdg/>
                                     <rdg source="#lang-3-ita">
-                                       <verse>
+                                       <verse n="3">
                                           <syl con="s" wordpos="t">to_è</syl>
                                        </verse>
                                     </rdg>
@@ -259,17 +259,17 @@
                                  <app>
                                     <rdg/>
                                     <rdg source="#lang-1-pol">
-                                       <verse>
+                                       <verse n="1">
                                           <syl con="d" wordpos="i">pięk</syl>
                                        </verse>
                                     </rdg>
                                        <rdg source="#lang-1-ipa">
-                                       <verse>
+                                       <verse n="1">
                                           <syl con="d" wordpos="i">[pʲɛŋk</syl>
                                        </verse>
                                     </rdg>
                                     <rdg source="#lang-1-ita">
-                                       <verse>
+                                       <verse n="1">
                                           <syl con="d" wordpos="i">bel</syl>
                                        </verse>
                                   </rdg>
@@ -277,12 +277,12 @@
                                  <app>
                                     <rdg/>
                                        <rdg source="#lang-2-ipa">
-                                       <verse>
+                                       <verse n="2">
                                           <syl con="d" wordpos="i">[pʲɛŋk</syl>
                                        </verse>
                                     </rdg>
                                     <rdg source="#lang-2-ita">
-                                       <verse>
+                                       <verse n="2">
                                           <syl con="d" wordpos="i">bel</syl>
                                        </verse>
                                     </rdg>
@@ -290,7 +290,7 @@
                                  <app>
                                     <rdg/>
                                     <rdg source="#lang-3-ita">
-                                       <verse>
+                                       <verse n="3">
                                           <syl con="d" wordpos="i">bel</syl>
                                        </verse>
                                   </rdg>
@@ -302,17 +302,17 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-1-pol">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="t">na,</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ipa">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="t">na]</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ita">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="t">la</syl>
                                     </verse>
                                  </rdg>
@@ -320,12 +320,12 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-2-ipa">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="t">na]</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-2-ita">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="t">la</syl>
                                     </verse>
                                  </rdg>
@@ -333,7 +333,7 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-3-ita">
-                                    <verse>
+                                    <verse n="3">
                                        <syl con="s" wordpos="t">la</syl>
                                     </verse>
                                  </rdg>
@@ -413,17 +413,17 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-1-pol">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="d" wordpos="i">Gdy</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ipa">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="d" wordpos="i">[gdɨ</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ita">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="d" wordpos="i">Pie</syl>
                                     </verse>
                                  </rdg>
@@ -431,12 +431,12 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-2-ipa">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="d" wordpos="i">[gdɨ</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-2-ita">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="d" wordpos="i">Pie</syl>
                                     </verse>
                                  </rdg>
@@ -444,7 +444,7 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-3-ita">
-                                    <verse >
+                                    <verse n="3">
                                        <syl con="d" wordpos="i">Pie</syl>
                                     </verse>
                                  </rdg>
@@ -454,18 +454,18 @@
                               <accid xml:id="a188tqvj" accid="s" />
                               <app>
                                  <rdg/>
-                                 <rdg source="#pol-1-pol">
-                                    <verse>
+                                 <rdg source="#lang-1-pol">
+                                    <verse n="1">
                                        <syl con="s" wordpos="t">by</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ipa">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="t">bɨ]</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ita">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="t">na</syl>
                                     </verse>
                                  </rdg>
@@ -473,12 +473,12 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-2-ipa">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="t">bɨ]</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-2-ita">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="t">na</syl>
                                     </verse>
                                  </rdg>
@@ -486,7 +486,7 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-3-ita">
-                                    <verse>
+                                    <verse n="3">
                                        <syl con="s" wordpos="t">na</syl>
                                     </verse>
                                  </rdg>
@@ -496,17 +496,17 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-1-pol">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="d" wordpos="i">sło</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ipa">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="d" wordpos="i">[swɔ</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ita">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="d" wordpos="i">giu</syl>
                                     </verse>
                                  </rdg>
@@ -514,12 +514,12 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-2-ipa">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="d" wordpos="i">[swɔ</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-2-ita">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="d" wordpos="i">giu</syl>
                                     </verse>
                                  </rdg>
@@ -527,7 +527,7 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-3-ita">
-                                    <verse>
+                                    <verse n="3">
                                        <syl con="d" wordpos="i">giu</syl>
                                     </verse>
                                  </rdg>
@@ -537,17 +537,17 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-1-pol">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="d" wordpos="m">ne</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ipa">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="d" wordpos="m">nɛʈ͡ʂ</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ita">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="d" wordpos="m">sti</syl>
                                     </verse>
                                  </rdg>
@@ -555,12 +555,12 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-2-ipa">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="d" wordpos="m">nɛʈ͡ʂ</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-2-ita">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="d" wordpos="m">sti</syl>
                                     </verse>
                                  </rdg>
@@ -568,7 +568,7 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-3-ita">
-                                    <verse>
+                                    <verse n="3">
                                        <syl con="d" wordpos="m">sti</syl>
                                     </verse>
                                  </rdg>
@@ -578,17 +578,17 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-1-pol">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="t">czko</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ipa">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="t">kɔ]</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ita">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="t">zia_a</syl>
                                     </verse>
                                  </rdg>
@@ -596,12 +596,12 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-2-ipa">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="t">kɔ]</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-2-ita">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="t">zia_a</syl>
                                     </verse>
                                  </rdg>
@@ -609,7 +609,7 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-3-ita">
-                                    <verse>
+                                    <verse n="3">
                                        <syl con="s" wordpos="t">zia_a</syl>
                                     </verse>
                                  </rdg>
@@ -676,12 +676,12 @@
                                     <app>
                                        <rdg/>
                                        <rdg source="#lang-1-pol">
-                                          <verse>
+                                          <verse n="1">
                                              <syl con="d" wordpos="i">ja</syl>
                                           </verse>
                                        </rdg>
                                        <rdg source="#lang-1-ipa">
-                                          <verse>
+                                          <verse n="1">
                                              <syl con="d" wordpos="i">[ja</syl>
                                           </verse>
                                        </rdg>
@@ -690,12 +690,12 @@
                               </rdg>
                               <rdg source="#lang-1-ita">
                                  <note dur.ppq="8" dur="8" oct="4" pname="a" stem.dir="up">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="s">lei</syl>
                                     </verse>
                                  </note>
                                  <note dur.ppq="8" dur="8" oct="4" pname="a" stem.dir="up">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="s">la</syl>
                                     </verse>
                                  </note>
@@ -705,19 +705,19 @@
                               <rdg/>
                               <rdg source="#lang-2-ipa">
                                  <note dur.ppq="8" dur="4" oct="4" pname="a" stem.dir="up">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="d" wordpos="i">[ja</syl>
                                     </verse>
                                  </note>
                               </rdg>
                               <rdg source="#lang-2-ita">
                                  <note dur.ppq="8" dur="8" oct="4" pname="a" stem.dir="up">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="s">lei</syl>
                                     </verse>
                                  </note>
                                  <note dur.ppq="8" dur="8" oct="4" pname="a" stem.dir="up">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="s">la</syl>
                                     </verse>
                                  </note>
@@ -727,12 +727,12 @@
                               <rdg/>
                               <rdg source="#lang-3-ita">
                                  <note dur.ppq="8" dur="8" oct="4" pname="a" stem.dir="up">
-                                    <verse>
+                                    <verse n="3">
                                        <syl con="s" wordpos="s">lei</syl>
                                     </verse>
                                  </note>
                                  <note dur.ppq="8" dur="8" oct="4" pname="a" stem.dir="up">
-                                    <verse>
+                                    <verse n="3">
                                        <syl con="s" wordpos="s">la</syl>
                                     </verse>
                                  </note>
@@ -742,17 +742,17 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-1-pol">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="t">sne</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ipa">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="t">snɛ]</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ita">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="d" wordpos="i">fa</syl>
                                     </verse>
                                  </rdg>
@@ -760,12 +760,12 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-2-ipa">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="t">snɛ]</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-2-ita">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="d" wordpos="i">fa</syl>
                                     </verse>
                                  </rdg>
@@ -773,7 +773,7 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-3-ita">
-                                    <verse>
+                                    <verse n="3">
                                        <syl con="d" wordpos="i">fa</syl>
                                     </verse>
                                  </rdg>
@@ -783,17 +783,17 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-1-pol">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="s">na</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ipa">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="s">[na]</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ita">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="t">ma</syl>
                                     </verse>
                                  </rdg>
@@ -801,12 +801,12 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-2-ipa">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="s">[na]</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-2-ita">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="t">ma</syl>
                                     </verse>
                                  </rdg>
@@ -814,7 +814,7 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-3-ita">
-                                    <verse>
+                                    <verse n="3">
                                        <syl con="s" wordpos="t">ma</syl>
                                     </verse>
                                  </rdg>
@@ -828,17 +828,17 @@
                                  <app>
                                     <rdg/>
                                     <rdg source="#lang-1-pol">
-                                       <verse>
+                                       <verse n="1">
                                           <syl con="d" wordpos="i">nie</syl>
                                        </verse>
                                     </rdg>
                                     <rdg source="#lang-1-ipa">
-                                       <verse>
+                                       <verse n="1">
                                           <syl con="d" wordpos="i">[ɲɛ</syl>
                                        </verse>
                                     </rdg>
                                     <rdg source="#lang-1-ita">
-                                       <verse>
+                                       <verse n="1">
                                           <syl con="d" wordpos="i">ren</syl>
                                        </verse>
                                     </rdg>
@@ -846,12 +846,12 @@
                                  <app>
                                     <rdg/>
                                     <rdg source="#lang-2-ipa">
-                                       <verse>
+                                       <verse n="2">
                                           <syl con="d" wordpos="i">[ɲɛ</syl>
                                        </verse>
                                     </rdg>
                                     <rdg source="#lang-2-ita">
-                                       <verse>
+                                       <verse n="2">
                                           <syl con="d" wordpos="i">ren</syl>
                                        </verse>
                                     </rdg>
@@ -859,7 +859,7 @@
                                  <app>
                                     <rdg/>
                                     <rdg source="#lang-3-ita">
-                                       <verse>
+                                       <verse n="3">
                                           <syl con="d" wordpos="i">ren</syl>
                                        </verse>
                                     </rdg>
@@ -931,17 +931,17 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-1-pol">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="t">bie</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ipa">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="t">bʲɛ]</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ita">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="t">dè</syl>
                                     </verse>
                                  </rdg>
@@ -949,12 +949,12 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-2-ipa">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="t">bʲɛ]</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-2-ita">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="t">dè</syl>
                                     </verse>
                                  </rdg>
@@ -962,7 +962,7 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-3-ita">
-                                    <verse>
+                                    <verse n="3">
                                        <syl con="s" wordpos="t">dè</syl>
                                     </verse>
                                  </rdg>
@@ -973,17 +973,17 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-1-pol">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="s">O</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ipa">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="s">[ɔ]</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ita">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="s">ah</syl>
                                     </verse>
                                  </rdg>
@@ -991,12 +991,12 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-2-ipa">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="s">[ɔ]</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-2-ita">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="s">ah</syl>
                                     </verse>
                                  </rdg>
@@ -1004,7 +1004,7 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-3-ita">
-                                    <verse>
+                                    <verse n="3">
                                        <syl con="s" wordpos="s">ah</syl>
                                     </verse>
                                  </rdg>
@@ -1014,17 +1014,17 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-1-pol">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="s">tak,</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ipa">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="s">[tak]</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ita">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="s">sì,</syl>
                                     </verse>
                                  </rdg>
@@ -1032,12 +1032,12 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-2-ipa">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="s">[tak]</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-2-ita">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="s">sì,</syl>
                                     </verse>
                                  </rdg>
@@ -1045,7 +1045,7 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-3-ita">
-                                    <verse>
+                                    <verse n="3">
                                        <syl con="s" wordpos="s">sì,</syl>
                                     </verse>
                                  </rdg>
@@ -1134,17 +1134,17 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-1-pol">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="s">tak…</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ipa">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="s">[tak]</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ita">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="s">sì.</syl>
                                     </verse>
                                  </rdg>
@@ -1152,12 +1152,12 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-2-ipa">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="s">[tak]</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-2-ita">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="s">sì.</syl>
                                     </verse>
                                  </rdg>
@@ -1165,7 +1165,7 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-3-ita">
-                                    <verse>
+                                    <verse n="3">
                                        <syl con="s" wordpos="s">sì.</syl>
                                     </verse>
                                  </rdg>
@@ -1177,17 +1177,17 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-1-pol">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="s">o</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ipa">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="d" wordpos="m">[ɔ</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ita">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="s">Per</syl>
                                     </verse>
                                  </rdg>
@@ -1195,12 +1195,12 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-2-ipa">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="d" wordpos="m">[ɔ</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-2-ita">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="s">Per</syl>
                                     </verse>
                                  </rdg>
@@ -1208,7 +1208,7 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-3-ita">
-                                    <verse>
+                                    <verse n="3">
                                        <syl con="s" wordpos="s">Per</syl>
                                     </verse>
                                  </rdg>
@@ -1218,17 +1218,17 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-1-pol">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="d" wordpos="i">sza</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ipa">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="d" wordpos="i">ʂa</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ita">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="s">lei</syl>
                                     </verse>
                                  </rdg>
@@ -1236,12 +1236,12 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-2-ipa">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="d" wordpos="i">ʂa</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-2-ita">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="s">lei</syl>
                                     </verse>
                                  </rdg>
@@ -1249,7 +1249,7 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-3-ita">
-                                    <verse>
+                                    <verse n="3">
                                        <syl con="s" wordpos="s">lei</syl>
                                     </verse>
                                  </rdg>
@@ -1259,17 +1259,17 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-1-pol">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="t">leć</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ipa">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="t">lɛt͡ɕ]</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ita">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="d" wordpos="i">de</syl>
                                     </verse>
                                  </rdg>
@@ -1277,12 +1277,12 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-2-ipa">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="t">lɛt͡ɕ]</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-2-ita">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="d" wordpos="i">de</syl>
                                     </verse>
                                  </rdg>
@@ -1290,7 +1290,7 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-3-ita">
-                                    <verse>
+                                    <verse n="3">
                                        <syl con="d" wordpos="i">de</syl>
                                     </verse>
                                  </rdg>
@@ -1373,17 +1373,17 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-1-pol">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="d" wordpos="i">trze</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ipa">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="d" wordpos="i">[t·ʂɛ</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ita">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="d" wordpos="m">li</syl>
                                     </verse>
                                  </rdg>
@@ -1391,12 +1391,12 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-2-ipa">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="d" wordpos="i">[t·ʂɛ</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-2-ita">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="d" wordpos="m">li</syl>
                                     </verse>
                                  </rdg>
@@ -1404,7 +1404,7 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-3-ita">
-                                    <verse>
+                                    <verse n="3">
                                        <syl con="d" wordpos="m">li</syl>
                                     </verse>
                                  </rdg>
@@ -1513,17 +1513,17 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-1-pol">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="t">ba…</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ipa">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="t">ba]</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-1-ita">
-                                    <verse>
+                                    <verse n="1">
                                        <syl con="s" wordpos="t">ro!</syl>
                                     </verse>
                                  </rdg>
@@ -1531,12 +1531,12 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-2-ipa">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="t">ba]</syl>
                                     </verse>
                                  </rdg>
                                  <rdg source="#lang-2-ita">
-                                    <verse>
+                                    <verse n="2">
                                        <syl con="s" wordpos="t">ro!</syl>
                                     </verse>
                                  </rdg>
@@ -1544,7 +1544,7 @@
                               <app>
                                  <rdg/>
                                  <rdg source="#lang-3-ita">
-                                    <verse>
+                                    <verse n="3">
                                        <syl con="s" wordpos="t">ro!</syl>
                                     </verse>
                                  </rdg>
