@@ -704,11 +704,13 @@
                            <app>
                               <rdg/>
                               <rdg source="#lang-2-ipa">
-                                 <note dur.ppq="8" dur="4" oct="4" pname="a" stem.dir="up" head.visible="false">
-                                    <verse n="2">
-                                       <syl con="d" wordpos="i">[ja</syl>
-                                    </verse>
-                                 </note>
+                                 <layer n="2">
+                                    <note dur.ppq="8" dur="4" oct="4" pname="a" stem.dir="up" head.visible="false" stem.visible="false">
+                                       <verse n="2">
+                                          <syl con="d" wordpos="i">[ja</syl>
+                                       </verse>
+                                    </note>
+                                 </layer>
                               </rdg>
                               <rdg source="#lang-2-ita">
                                  <layer n="2">
