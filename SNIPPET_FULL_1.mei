@@ -669,7 +669,7 @@
                   <sb xml:id="swxgiyr" />
                   <measure xml:id="m1ec3e3c" n="4">
                      <staff xml:id="s1gnt735" n="1">
-                        <!-- <layer xml:id="l17sciqr" n="1"> -->
+
                            <app>
                               <rdg source="#lang-1-pol #lang-1-ipa">
                                  <layer n="1">
@@ -734,7 +734,7 @@
                            <app>
                               <rdg/>
                               <rdg source="#lang-3-ita">
-                                 <layer n="2">
+                                 <layer n="3">
                                     <note dur.ppq="8" dur="8" oct="4" pname="a" stem.dir="down">
                                        <verse n="3">
                                           <syl con="s" wordpos="s">lei</syl>
@@ -748,6 +748,7 @@
                                  </layer>
                               </rdg>
                            </app>
+                        <layer xml:id="l17sciqr" n="1">
                            <note xml:id="n1xr08wr" dur.ppq="4" dur="8" oct="4" pname="f" stem.dir="up" accid.ges="s">
                               <app>
                                  <rdg/>
@@ -877,7 +878,7 @@
                               </note>
                               <note xml:id="npjlvl8" dur.ppq="1" dur="32" oct="4" pname="a" stem.dir="up" />
                            </beam>
-                        <!-- </layer> -->
+                        </layer>
                      </staff>
                      <staff xml:id="s1ktwec8" n="2">
                         <layer xml:id="luc1lqk" n="1">
