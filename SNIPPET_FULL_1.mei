@@ -78,7 +78,7 @@
                                  </app>
                                  <app>
                                     <rdg/>
-                                    <rdg source="lang-2-ipa">
+                                    <rdg source="#lang-2-ipa">
                                        <verse n="2">
                                           <syl con="s" wordpos="s">[ax]</syl>
                                        </verse>
