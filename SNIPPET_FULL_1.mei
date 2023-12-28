@@ -670,6 +670,7 @@
                   <measure xml:id="m1ec3e3c" n="4">
                      <staff xml:id="s1gnt735" n="1">
                         <layer n="1">
+                           <space dur="4"/>
                            <app>
                               <rdg source="#lang-1-pol #lang-1-ipa">
 
