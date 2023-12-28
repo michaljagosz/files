@@ -704,38 +704,42 @@
                            <app>
                               <rdg/>
                               <rdg source="#lang-2-ipa">
-                                 <note dur.ppq="8" dur="4" oct="4" pname="a" stem.dir="up">
+                                 <note dur.ppq="8" dur="4" oct="4" pname="a" stem.dir="up" head.visible="false">
                                     <verse n="2">
                                        <syl con="d" wordpos="i">[ja</syl>
                                     </verse>
                                  </note>
                               </rdg>
                               <rdg source="#lang-2-ita">
-                                 <note dur.ppq="8" dur="8" oct="4" pname="a" stem.dir="up">
-                                    <verse n="2">
-                                       <syl con="s" wordpos="s">lei</syl>
-                                    </verse>
-                                 </note>
-                                 <note dur.ppq="8" dur="8" oct="4" pname="a" stem.dir="up">
-                                    <verse n="2">
-                                       <syl con="s" wordpos="s">la</syl>
-                                    </verse>
-                                 </note>
+                                 <layer n="2">
+                                    <note dur.ppq="8" dur="8" oct="4" pname="a" stem.dir="up">
+                                       <verse n="2">
+                                          <syl con="s" wordpos="s">lei</syl>
+                                       </verse>
+                                    </note>
+                                    <note dur.ppq="8" dur="8" oct="4" pname="a" stem.dir="up">
+                                       <verse n="2">
+                                          <syl con="s" wordpos="s">la</syl>
+                                       </verse>
+                                    </note>
+                              </layer>
                               </rdg>
                            </app>
                            <app>
                               <rdg/>
                               <rdg source="#lang-3-ita">
-                                 <note dur.ppq="8" dur="8" oct="4" pname="a" stem.dir="up">
-                                    <verse n="3">
-                                       <syl con="s" wordpos="s">lei</syl>
-                                    </verse>
-                                 </note>
-                                 <note dur.ppq="8" dur="8" oct="4" pname="a" stem.dir="up">
-                                    <verse n="3">
-                                       <syl con="s" wordpos="s">la</syl>
-                                    </verse>
-                                 </note>
+                                 <layer n="2">
+                                    <note dur.ppq="8" dur="8" oct="4" pname="a" stem.dir="up">
+                                       <verse n="3">
+                                          <syl con="s" wordpos="s">lei</syl>
+                                       </verse>
+                                    </note>
+                                    <note dur.ppq="8" dur="8" oct="4" pname="a" stem.dir="up">
+                                       <verse n="3">
+                                          <syl con="s" wordpos="s">la</syl>
+                                       </verse>
+                                    </note>
+                                 </layer>
                               </rdg>
                            </app>
                            <note xml:id="n1xr08wr" dur.ppq="4" dur="8" oct="4" pname="f" stem.dir="up" accid.ges="s">
