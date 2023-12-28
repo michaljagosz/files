@@ -248,7 +248,7 @@
                            </dir>
                         </rdg>
                      </app>
-                     <hairpin xml:id="h1a6z7bk" staff="1" tstamp="3.000000" tstamp2="1m+1.0000" form="cres" place="above" vgrp="2300" />
+                     <hairpin xml:id="h1a6z7bk" staff="1" tstamp="3.000000" tstamp2="0m+4" form="cres" place="above" vgrp="2300" />
                      <slur xml:id="s1m0agvw" startid="#n1iyk5lz" endid="#n1qfkq19" curvedir="above" />
                   </measure>
                   <measure xml:id="m4m13sy" n="2">
