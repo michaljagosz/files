@@ -669,7 +669,7 @@
                   <sb xml:id="swxgiyr" />
                   <measure xml:id="m1ec3e3c" n="4">
                      <staff xml:id="s1gnt735" n="1">
-
+                        <layer n="1">
                            <app>
                               <rdg source="#lang-1-pol #lang-1-ipa">
                                  <layer n="1">
@@ -748,7 +748,6 @@
                                  </layer>
                               </rdg>
                            </app>
-                        <layer n="1">
                            <note xml:id="n1xr08wr" dur.ppq="4" dur="8" oct="4" pname="f" stem.dir="up" accid.ges="s">
                               <app>
                                  <rdg/>
