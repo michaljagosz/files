@@ -205,18 +205,18 @@
                      </staff>
                      <app>
                         <rdg/>
-                        <rdg source="#lag-1-pol">
-                           <dir place="above" staff="1" tstamp="3.000000" vgrp="1000">
+                        <rdg source="#lang-1-pol">
+                           <dir place="above" staff="1" tstamp="3.000000" n="1" vgrp="1000">
                               <rend fontfam="Academico" xml:space="preserve">(na stronie)</rend>
                            </dir>
                         </rdg>
                         <rdg source="#lang-1-ipa">
-                           <dir place="above" staff="1" tstamp="3.000000" vgrp="1000">
+                           <dir place="above" staff="1" tstamp="3.000000" n="1" vgrp="1000">
                               <rend fontfam="Academico" xml:space="preserve">(na strɔɲɛ)</rend>
                            </dir>
                         </rdg>
                         <rdg source="#lang-1-ita">
-                           <dir place="above" staff="1" tstamp="3.000000" vgrp="1000">
+                           <dir place="above" staff="1" tstamp="3.000000" n="1" vgrp="1000">
                               <rend fontfam="Academico" xml:space="preserve">(</rend>
                               <rend fontfam="Academico" fontstyle="italic" xml:space="preserve">na stronie ale po włosku</rend>
                               <rend fontfam="Academico" xml:space="preserve">)</rend>
@@ -226,12 +226,12 @@
                      <app>
                         <rdg/>
                         <rdg source="#lang-2-ipa">
-                           <dir place="above" staff="1" tstamp="3.000000" vgrp="2000">
+                           <dir place="above" staff="1" tstamp="3.000000" n="2" vgrp="2000">
                               <rend fontfam="Academico" xml:space="preserve">(na strɔɲɛ)</rend>
                            </dir>
                         </rdg>
                         <rdg source="#lang-2-ita">
-                           <dir place="above" staff="1" tstamp="3.000000" vgrp="2000">
+                           <dir place="above" staff="1" tstamp="3.000000" n="2" vgrp="2000">
                               <rend fontfam="Academico" xml:space="preserve">(</rend>
                               <rend fontfam="Academico" fontstyle="italic" xml:space="preserve">na stronie ale po włosku</rend>
                               <rend fontfam="Academico" xml:space="preserve">)</rend>
@@ -241,7 +241,7 @@
                      <app>
                         <rdg/>
                         <rdg source="#lang-3-ita">
-                           <dir place="above" staff="1" tstamp="3.000000" vgrp="3000">
+                           <dir place="above" staff="1" tstamp="3.000000" n="3" vgrp="3000">
                               <rend fontfam="Academico" xml:space="preserve">(</rend>
                               <rend fontfam="Academico" fontstyle="italic" xml:space="preserve">na stronie ale po włosku</rend>
                               <rend fontfam="Academico" xml:space="preserve">)</rend>
