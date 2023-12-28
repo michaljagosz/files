@@ -65,7 +65,7 @@
                                           <syl con="s" wordpos="s">Ach</syl>
                                        </verse>
                                     </rdg>
-                                    <rdg source="lang-1-ipa">
+                                    <rdg source="#lang-1-ipa">
                                        <verse n="1">
                                           <syl con="s" wordpos="s">[ax]</syl>
                                        </verse>
