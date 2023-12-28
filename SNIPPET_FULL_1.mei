@@ -705,7 +705,7 @@
                               <rdg/>
                               <rdg source="#lang-2-ipa">
                                  <layer n="2">
-                                    <note dur.ppq="8" dur="4" oct="4" pname="a" stem.dir="up" head.visible="false" stem.visible="false">
+                                    <note dur.ppq="8" dur="4" oct="4" pname="a" stem.dir="up">
                                        <verse n="2">
                                           <syl con="d" wordpos="i">[ja</syl>
                                        </verse>
