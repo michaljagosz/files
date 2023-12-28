@@ -672,7 +672,7 @@
                         <layer n="1">
                            <app>
                               <rdg source="#lang-1-pol #lang-1-ipa">
-                                 <layer n="1">
+                                 <!-- <layer n="1"> -->
                                     <note dur="4" oct="4" pname="a" stem.dir="up">
                                        <app>
                                           <rdg/>
@@ -688,10 +688,10 @@
                                           </rdg>
                                        </app>
                                     </note>
-                                 </layer>
+                                 <!-- </layer> -->
                               </rdg>
                               <rdg source="#lang-1-ita">
-                                 <layer n="1">
+                                 <!-- <layer n="1"> -->
                                     <note dur="8" oct="4" pname="a" stem.dir="up">
                                        <verse n="1">
                                           <syl con="s" wordpos="s">lei</syl>
@@ -702,7 +702,7 @@
                                           <syl con="s" wordpos="s">la</syl>
                                        </verse>
                                     </note>
-                                 </layer>
+                                 <!-- </layer> -->
                               </rdg>
                            </app>
                            <app>
