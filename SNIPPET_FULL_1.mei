@@ -673,7 +673,7 @@
                            <app>
                               <rdg source="#lang-1-pol #lang-1-ipa">
                                  <layer n="1">
-                                    <note dur.ppq="8" dur="4" oct="4" pname="a" stem.dir="up">
+                                    <note dur="4" oct="4" pname="a" stem.dir="up">
                                        <app>
                                           <rdg/>
                                           <rdg source="#lang-1-pol">
@@ -692,12 +692,12 @@
                               </rdg>
                               <rdg source="#lang-1-ita">
                                  <layer n="1">
-                                    <note dur.ppq="8" dur="8" oct="4" pname="a" stem.dir="up">
+                                    <note dur="8" oct="4" pname="a" stem.dir="up">
                                        <verse n="1">
                                           <syl con="s" wordpos="s">lei</syl>
                                        </verse>
                                     </note>
-                                    <note dur.ppq="8" dur="8" oct="4" pname="a" stem.dir="up">
+                                    <note dur="8" oct="4" pname="a" stem.dir="up">
                                        <verse n="1">
                                           <syl con="s" wordpos="s">la</syl>
                                        </verse>
@@ -709,7 +709,7 @@
                               <rdg/>
                               <rdg source="#lang-2-ipa">
                                  <layer n="2">
-                                    <note dur.ppq="8" dur="4" oct="4" pname="a" stem.dir="up" head.visible="false" stem.visible="false">
+                                    <note dur="4" oct="4" pname="a" stem.dir="up" head.visible="false" stem.visible="false">
                                        <verse n="2">
                                           <syl con="d" wordpos="i">[ja</syl>
                                        </verse>
@@ -718,12 +718,12 @@
                               </rdg>
                               <rdg source="#lang-2-ita">
                                  <layer n="2">
-                                    <note dur.ppq="8" dur="8" oct="4" pname="a" stem.dir="down">
+                                    <note dur="8" oct="4" pname="a" stem.dir="down">
                                        <verse n="2">
                                           <syl con="s" wordpos="s">lei</syl>
                                        </verse>
                                     </note>
-                                    <note dur.ppq="8" dur="8" oct="4" pname="a" stem.dir="down">
+                                    <note dur="8" oct="4" pname="a" stem.dir="down">
                                        <verse n="2">
                                           <syl con="s" wordpos="s">la</syl>
                                        </verse>
@@ -735,12 +735,12 @@
                               <rdg/>
                               <rdg source="#lang-3-ita">
                                  <layer n="3">
-                                    <note dur.ppq="8" dur="8" oct="4" pname="a" stem.dir="down">
+                                    <note dur="8" oct="4" pname="a" stem.dir="down">
                                        <verse n="3">
                                           <syl con="s" wordpos="s">lei</syl>
                                        </verse>
                                     </note>
-                                    <note dur.ppq="8" dur="8" oct="4" pname="a" stem.dir="down">
+                                    <note dur="8" oct="4" pname="a" stem.dir="down">
                                        <verse n="3">
                                           <syl con="s" wordpos="s">la</syl>
                                        </verse>
