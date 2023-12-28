@@ -1135,7 +1135,7 @@
                      <hairpin xml:id="h6c3ufa" staff="1" tstamp="2.750000" tstamp2="0m+3.5000" form="cres" place="above" vgrp="2300" />
                      <slur xml:id="sl61axx" startid="#n3vdm05" endid="#ntu2ewy" curvedir="above" />
                      <!-- <hairpin xml:id="hex316x" place="between" staff="2 3" tstamp="2.000000" tstamp2="1m+4" form="cres" /> -->
-                     <dynam place="between" staff="2 3" tstamp="2" tstamp2="2m+1">cresc.</dynam>
+                     <dynam place="between" staff="2 3" tstamp="2" tstamp2="2m+1" extender="true" lform="dotted">cresc.</dynam>
                      <slur xml:id="s1akmx6w" startid="#n727eyx" endid="#n1f4t215" curvedir="above" />
                      <slur xml:id="s1hzm16t" startid="#n1whul49" endid="#n1fczx27" curvedir="above" />
                   </measure>
