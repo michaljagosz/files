@@ -27,14 +27,16 @@
             <score xml:id="sathkfb">
                <scoreDef xml:id="s1usyjxb">
                   <staffGrp xml:id="sllofqx">
-                     <staffDef xml:id="P1" n="1" lines="5" ppq="8">
-                        <label n="1">Mazepa</label>
-                        <label n="2">Mazeppa</label>
-                        <labelAbbr xml:id="lyzgl">Maz.</labelAbbr>
-                        <clef xml:id="c1mbzya3" shape="G" line="2" />
-                        <keySig xml:id="k1xvfs22" mode="major" sig="2s" />
-                        <meterSig xml:id="mat17gz" count="3" unit="4" />
-                     </staffDef>
+                     <staffGrp symbol="line">
+                        <staffDef xml:id="P1" n="1" lines="5" ppq="8">
+                           <label n="1">Mazepa</label>
+                           <label n="2">Mazeppa</label>
+                           <labelAbbr xml:id="lyzgl">Maz.</labelAbbr>
+                           <clef xml:id="c1mbzya3" shape="G" line="2" />
+                           <keySig xml:id="k1xvfs22" mode="major" sig="2s" />
+                           <meterSig xml:id="mat17gz" count="3" unit="4" />
+                        </staffDef>
+                     </staffGrp>
                      <staffGrp xml:id="P2" bar.thru="true">
                         <grpSym xml:id="gq2hu1y" symbol="brace" />
                         <staffDef xml:id="s1ulxnkv" n="2" lines="5" ppq="12">
