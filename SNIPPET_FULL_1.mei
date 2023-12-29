@@ -719,16 +719,16 @@
                               </rdg>
                               <rdg source="#lang-2-ita">
                                  <layer n="2">
-                                    <note dur="8" oct="4" pname="a" stem.dir="down" cue="true"/>
+                                    <note dur="8" oct="4" pname="a" stem.dir="down" cue="true">
                                        <!-- <verse n="2">
                                           <syl con="s" wordpos="s">lei</syl>
-                                       </verse>
-                                    </note> -->
-                                    <note dur="8" oct="4" pname="a" stem.dir="down" cue="true"/>
+                                       </verse> -->
+                                    </note>
+                                    <note dur="8" oct="4" pname="a" stem.dir="down" cue="true">
                                        <!-- <verse n="2">
                                           <syl con="s" wordpos="s">la</syl>
-                                       </verse>
-                                    </note> -->
+                                       </verse> -->
+                                    </note>
                               </layer>
                               <layer>
                                  <note dur="8" oct="4" pname="a" stem.dir="down" head.visible="false" stem.visible="false">
@@ -748,16 +748,16 @@
                               <rdg/>
                               <rdg source="#lang-3-ita">
                                  <layer n="3">
-                                    <note dur="8" oct="4" pname="a" stem.dir="down" cue="true"/>
+                                    <note dur="8" oct="4" pname="a" stem.dir="down" cue="true">
                                        <!-- <verse n="3">
                                           <syl con="s" wordpos="s">lei</syl>
-                                       </verse>
-                                    </note> -->
-                                    <note dur="8" oct="4" pname="a" stem.dir="down" cue="true"/>
+                                       </verse> -->
+                                    </note>
+                                    <note dur="8" oct="4" pname="a" stem.dir="down" cue="true">
                                        <!-- <verse n="3">
                                           <syl con="s" wordpos="s">la</syl>
-                                       </verse>
-                                    </note> -->
+                                       </verse> -->
+                                    </note>
                                  </layer>
                                  <layer>
                                     <note dur="8" oct="4" pname="a" stem.dir="down" head.visible="false" stem.visible="false">
