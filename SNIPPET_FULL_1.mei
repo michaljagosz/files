@@ -698,7 +698,7 @@
                                     </note>
                                     <note dur="8" oct="4" pname="a" stem.dir="up">
                                        <verse n="1">
-                                          <syl con="s" wordpos="s">la</syl>
+                                          <syl con="s" wordpos="t">la</syl>
                                        </verse>
                                     </note>
                                  </layer>
@@ -741,7 +741,7 @@
                                     </note>
                                     <note dur="8" oct="4" pname="a" stem.dir="down" cue="true">
                                        <verse n="3">
-                                          <syl con="s" wordpos="s">la</syl>
+                                          <syl con="s" wordpos="t">la</syl>
                                        </verse>
                                     </note>
                                  </layer>
