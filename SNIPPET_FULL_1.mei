@@ -693,7 +693,7 @@
                                  <layer n="1">
                                     <note dur="8" oct="4" pname="a" stem.dir="up">
                                        <verse n="1">
-                                          <syl con="d" wordpos="i">lei</syl>
+                                          <syl con="s" wordpos="s">lei</syl>
                                        </verse>
                                     </note>
                                     <note dur="8" oct="4" pname="a" stem.dir="up">
@@ -719,7 +719,7 @@
                                  <layer n="2">
                                     <note dur="8" oct="4" pname="a" stem.dir="down">
                                        <verse n="2">
-                                          <syl con="s" wordpos="i">lei</syl>
+                                          <syl con="s" wordpos="s">lei</syl>
                                        </verse>
                                     </note>
                                     <note dur="8" oct="4" pname="a" stem.dir="down">
@@ -736,7 +736,7 @@
                                  <layer n="3">
                                     <note dur="8" oct="4" pname="a" stem.dir="down" cue="true">
                                        <verse n="3">
-                                          <syl con="d" wordpos="i">lei</syl>
+                                          <syl con="s" wordpos="s">lei</syl>
                                        </verse>
                                     </note>
                                     <note dur="8" oct="4" pname="a" stem.dir="down" cue="true">
