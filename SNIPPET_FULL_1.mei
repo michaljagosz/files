@@ -708,7 +708,7 @@
                               <rdg/>
                               <rdg source="#lang-2-ipa">
                                  <layer n="1">
-                                    <note dur="4" oct="4" pname="a" stem.dir="up">
+                                    <note dur="4" oct="4" pname="a" stem.dir="up" head.visible="false" stem.visible="false">
                                        <verse n="2">
                                           <syl con="d" wordpos="i">[ja</syl>
                                        </verse>
@@ -736,7 +736,7 @@
                                  <layer n="3">
                                     <note dur="8" oct="4" pname="a" stem.dir="down" cue="true">
                                        <verse n="3">
-                                          <syl con="s" wordpos="s">lei</syl>
+                                          <syl con="d" wordpos="s">lei</syl>
                                        </verse>
                                     </note>
                                     <note dur="8" oct="4" pname="a" stem.dir="down" cue="true">
