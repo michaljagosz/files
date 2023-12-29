@@ -693,7 +693,7 @@
                                  <layer n="1">
                                     <note dur="8" oct="4" pname="a" stem.dir="up">
                                        <verse n="1">
-                                          <syl con="d" wordpos="s">lei</syl>
+                                          <syl con="d" wordpos="i">lei</syl>
                                        </verse>
                                     </note>
                                     <note dur="8" oct="4" pname="a" stem.dir="up">
@@ -719,12 +719,12 @@
                                  <layer n="2">
                                     <note dur="8" oct="4" pname="a" stem.dir="down">
                                        <verse n="2">
-                                          <syl con="s" wordpos="s">lei</syl>
+                                          <syl con="s" wordpos="i">lei</syl>
                                        </verse>
                                     </note>
                                     <note dur="8" oct="4" pname="a" stem.dir="down">
                                        <verse n="2">
-                                          <syl con="s" wordpos="s">la</syl>
+                                          <syl con="s" wordpos="t">la</syl>
                                        </verse>
                                     </note>
                               </layer>
@@ -736,7 +736,7 @@
                                  <layer n="3">
                                     <note dur="8" oct="4" pname="a" stem.dir="down" cue="true">
                                        <verse n="3">
-                                          <syl con="d" wordpos="s">lei</syl>
+                                          <syl con="d" wordpos="i">lei</syl>
                                        </verse>
                                     </note>
                                     <note dur="8" oct="4" pname="a" stem.dir="down" cue="true">
@@ -831,7 +831,7 @@
                                  </rdg>
                               </app>
                            </note>
-                           <note xml:id="n1y3jre4" dur.ppq="0" dur="8" oct="4" pname="g" grace="acc" stem.mod="1slash" stem.dir="up">
+                           <note xml:id="n1y3jre4" dur.ppq="0" dur="8" oct="4" pname="g" grace="unacc" stem.mod="1slash" stem.dir="up">
                               <accid xml:id="a1fuu1bz" accid="s" />
                            </note>
                            <beam xml:id="b9yk7xv">
