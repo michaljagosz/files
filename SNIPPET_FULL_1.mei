@@ -831,7 +831,7 @@
                                  </rdg>
                               </app>
                            </note>
-                           <note xml:id="n1y3jre4" dur.ppq="0" dur="8" oct="4" pname="g" grace="acc" stem.dir="up">
+                           <note xml:id="n1y3jre4" dur.ppq="0" dur="8" oct="4" pname="g" grace="acc" stem.mod="1slash" stem.dir="up">
                               <accid xml:id="a1fuu1bz" accid="s" />
                            </note>
                            <beam xml:id="b9yk7xv">
