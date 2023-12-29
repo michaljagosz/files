@@ -693,7 +693,7 @@
                                  <layer n="1">
                                     <note dur="8" oct="4" pname="a" stem.dir="up">
                                        <verse n="1">
-                                          <syl con="s" wordpos="s">lei</syl>
+                                          <syl con="d" wordpos="s">lei</syl>
                                        </verse>
                                     </note>
                                     <note dur="8" oct="4" pname="a" stem.dir="up">
