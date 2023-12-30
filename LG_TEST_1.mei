@@ -50,76 +50,76 @@
                            </note>
                         </layer>
                      </staff>
-                     <app>
-                        <rdg/>
-                        <rdg source="#lang-1-pol">
-                           <lg staff="1">
-                              <l n="1">
-                                 <syl con="d" wordpos="i">A</syl>
-                                 <syl con="d" wordpos="m">a</syl>
-                                 <syl con="d" wordpos="m">a</syl>
-                                 <syl con="s" wordpos="t">a</syl>
-                              </l>
-                           </lg>
-                        </rdg>
-                        <rdg source="#lang-1-ipa">
-                           <lg staff="1">
-                              <l n="1">
-                                 <syl con="d" wordpos="i">[B</syl>
-                                 <syl con="d" wordpos="m">b</syl>
-                                 <syl con="d" wordpos="m">b</syl>
-                                 <syl con="s" wordpos="t">b]</syl>
-                              </l>
-                           </lg>
-                        </rdg>
-                        <rdg source="#lang-1-ita">
-                           <lg staff="1">
-                              <l n="1">
-                                 <syl con="d" wordpos="i">C</syl>
-                                 <syl con="d" wordpos="m">c</syl>
-                                 <syl con="d" wordpos="m">c</syl>
-                                 <syl con="s" wordpos="t">c</syl>
-                              </l>
-                           </lg>
-                        </rdg>
-                     </app>
-                     <app>
-                        <rdg/>
-                        <rdg source="#lang-2-ipa">
-                           <lg staff="1">
-                              <l n="2">
-                                 <syl con="d" wordpos="i">[B</syl>
-                                 <syl con="d" wordpos="m">b</syl>
-                                 <syl con="d" wordpos="m">b</syl>
-                                 <syl con="s" wordpos="t">b]</syl>
-                              </l>
-                           </lg>
-                        </rdg>
-                        <rdg source="#lang-2-ita">
-                           <lg staff="1">
-                              <l n="2">
-                                 <syl con="d" wordpos="i">C</syl>
-                                 <syl con="d" wordpos="m">c</syl>
-                                 <syl con="d" wordpos="m">c</syl>
-                                 <syl con="s" wordpos="t">c</syl>
-                              </l>
-                           </lg>
-                        </rdg>
-                     </app>
-                     <app>
-                        <rdg/>
-                        <rdg source="#lang-3-ita">
-                           <lg staff="1">
-                              <l n="3">
-                                 <syl con="d" wordpos="i">C</syl>
-                                 <syl con="d" wordpos="m">c</syl>
-                                 <syl con="d" wordpos="m">c</syl>
-                                 <syl con="s" wordpos="t">c</syl>
-                              </l>
-                           </lg>
-                        </rdg>
-                     </app>
                   </measure>
+                  <app>
+                    <rdg/>
+                    <rdg source="#lang-1-pol">
+                       <lg staff="1">
+                          <l n="1">
+                             <syl con="d" wordpos="i">A</syl>
+                             <syl con="d" wordpos="m">a</syl>
+                             <syl con="d" wordpos="m">a</syl>
+                             <syl con="s" wordpos="t">a</syl>
+                          </l>
+                       </lg>
+                    </rdg>
+                    <rdg source="#lang-1-ipa">
+                       <lg staff="1">
+                          <l n="1">
+                             <syl con="d" wordpos="i">[B</syl>
+                             <syl con="d" wordpos="m">b</syl>
+                             <syl con="d" wordpos="m">b</syl>
+                             <syl con="s" wordpos="t">b]</syl>
+                          </l>
+                       </lg>
+                    </rdg>
+                    <rdg source="#lang-1-ita">
+                       <lg staff="1">
+                          <l n="1">
+                             <syl con="d" wordpos="i">C</syl>
+                             <syl con="d" wordpos="m">c</syl>
+                             <syl con="d" wordpos="m">c</syl>
+                             <syl con="s" wordpos="t">c</syl>
+                          </l>
+                       </lg>
+                    </rdg>
+                 </app>
+                 <app>
+                    <rdg/>
+                    <rdg source="#lang-2-ipa">
+                       <lg staff="1">
+                          <l n="2">
+                             <syl con="d" wordpos="i">[B</syl>
+                             <syl con="d" wordpos="m">b</syl>
+                             <syl con="d" wordpos="m">b</syl>
+                             <syl con="s" wordpos="t">b]</syl>
+                          </l>
+                       </lg>
+                    </rdg>
+                    <rdg source="#lang-2-ita">
+                       <lg staff="1">
+                          <l n="2">
+                             <syl con="d" wordpos="i">C</syl>
+                             <syl con="d" wordpos="m">c</syl>
+                             <syl con="d" wordpos="m">c</syl>
+                             <syl con="s" wordpos="t">c</syl>
+                          </l>
+                       </lg>
+                    </rdg>
+                 </app>
+                 <app>
+                    <rdg/>
+                    <rdg source="#lang-3-ita">
+                       <lg staff="1">
+                          <l n="3">
+                             <syl con="d" wordpos="i">C</syl>
+                             <syl con="d" wordpos="m">c</syl>
+                             <syl con="d" wordpos="m">c</syl>
+                             <syl con="s" wordpos="t">c</syl>
+                          </l>
+                       </lg>
+                    </rdg>
+                 </app>
                </section>
             </score>
          </mdiv>
