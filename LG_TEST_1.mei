@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead xml:id="m5nvxo">
+      <fileDesc xml:id="f1e9webw">
+         <titleStmt xml:id="tc9n424">
+            <title></title>
+            <respStmt />
+         </titleStmt>
+         <pubStmt xml:id="p30c3a2">
+            <date isodate="2023-12-30" type="encoding-date">2023-12-30</date>
+         </pubStmt>
+      </fileDesc>
+      <encodingDesc xml:id="e11fkaos">
+         <appInfo xml:id="a1pb61wg">
+            <application xml:id="a1bfn606" isodate="2023-12-30T02:16:54" version="4.2.0-dev-dab41c5">
+               <name xml:id="n1x4n150">Verovio</name>
+               <p xml:id="p1fg7foo">Transcoded from MusicXML</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv xml:id="m18bayg1">
+            <score xml:id="so1qehk">
+               <scoreDef xml:id="s1sex63q">
+                  <staffGrp xml:id="s1hd0d4f">
+                     <staffDef xml:id="P1" n="1" lines="5" ppq="4">
+                        <label xml:id="l474l9h"></label>
+                        <labelAbbr xml:id="l1h8nu82"></labelAbbr>
+                        <clef xml:id="c1erxmho" shape="G" line="2" />
+                        <keySig xml:id="k165go1y" sig="0" />
+                        <meterSig xml:id="mhd03sm" count="4" unit="4" />
+                     </staffDef>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="ssdccta">
+                  <measure xml:id="m1xgpbrd" right="end" n="1">
+                     <staff xml:id="seyavl4" n="1">
+                        <layer xml:id="l15uutvp" n="1">
+                           <note xml:id="nvryrvb" dur.ppq="4" dur="4" oct="4" pname="c" stem.dir="up">
+                           </note>
+                           <note xml:id="n1p94su3" dur.ppq="4" dur="4" oct="4" pname="c" stem.dir="up">
+                           </note>
+                           <note xml:id="nmsz1bs" dur.ppq="4" dur="4" oct="4" pname="c" stem.dir="up">
+                           </note>
+                           <note xml:id="n7ihg70" dur.ppq="4" dur="4" oct="4" pname="c" stem.dir="up">
+                           </note>
+                        </layer>
+                     </staff>
+                     <app>
+                        <rdg/>
+                        <rdg source="#lang-1-pol">
+                           <lg staff="1">
+                              <l n="1">
+                                 <syl con="d" wordpos="i">A</syl>
+                                 <syl con="d" wordpos="m">a</syl>
+                                 <syl con="d" wordpos="m">a</syl>
+                                 <syl con="s" wordpos="t">a</syl>
+                              </l>
+                           </lg>
+                        </rdg>
+                        <rdg source="#lang-1-ipa">
+                           <lg staff="1">
+                              <l n="1">
+                                 <syl con="d" wordpos="i">[B</syl>
+                                 <syl con="d" wordpos="m">b</syl>
+                                 <syl con="d" wordpos="m">b</syl>
+                                 <syl con="s" wordpos="t">b]</syl>
+                              </l>
+                           </lg>
+                        </rdg>
+                        <rdg source="#lang-1-ita">
+                           <lg staff="1">
+                              <l n="1">
+                                 <syl con="d" wordpos="i">C</syl>
+                                 <syl con="d" wordpos="m">c</syl>
+                                 <syl con="d" wordpos="m">c</syl>
+                                 <syl con="s" wordpos="t">c</syl>
+                              </l>
+                           </lg>
+                        </rdg>
+                     </app>
+                     <app>
+                        <rdg/>
+                        <rdg source="#lang-2-ipa">
+                           <lg staff="1">
+                              <l n="2">
+                                 <syl con="d" wordpos="i">[B</syl>
+                                 <syl con="d" wordpos="m">b</syl>
+                                 <syl con="d" wordpos="m">b</syl>
+                                 <syl con="s" wordpos="t">b]</syl>
+                              </l>
+                           </lg>
+                        </rdg>
+                        <rdg source="#lang-2-ita">
+                           <lg staff="1">
+                              <l n="2">
+                                 <syl con="d" wordpos="i">C</syl>
+                                 <syl con="d" wordpos="m">c</syl>
+                                 <syl con="d" wordpos="m">c</syl>
+                                 <syl con="s" wordpos="t">c</syl>
+                              </l>
+                           </lg>
+                        </rdg>
+                     </app>
+                     <app>
+                        <rdg/>
+                        <rdg source="#lang-3-ita">
+                           <lg staff="1">
+                              <l n="3">
+                                 <syl con="d" wordpos="i">C</syl>
+                                 <syl con="d" wordpos="m">c</syl>
+                                 <syl con="d" wordpos="m">c</syl>
+                                 <syl on="s" wordpos="t">c</syl>
+                              </l>
+                           </lg>
+                        </rdg>
+                     </app>
+                  </measure>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
