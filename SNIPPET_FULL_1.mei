@@ -642,7 +642,7 @@
                         </layer>
                      </staff>
                      <staff xml:id="s1tzy8y0" n="3">
-                        <layer xml:id="lqk8q3" n="2">
+                        <layer xml:id="lqk8q3" n="1">
                            <beam xml:id="bwj4j2h">
                               <note xml:id="nsbvnnz" dur.ppq="6" dur="8" oct="2" pname="a" />
                               <note xml:id="nqw7fkc" dur.ppq="3" dur="16" oct="2" pname="a" />
@@ -661,7 +661,7 @@
                               </chord>
                            </beam>
                         </layer>
-                        <layer xml:id="l1ue171f" n="3">
+                        <layer xml:id="l1ue171f" n="2">
                            <note xml:id="n8o8jg2" dur.ppq="24" dur="2" oct="2" pname="d" stem.dir="down" />
                            <space xml:id="s189h1k7" dur.ppq="12" dur="4" />
                         </layer>
