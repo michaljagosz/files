@@ -210,7 +210,8 @@
                         <rdg source="#lang-3-ita">
                            <dir place="above" staff="1" tstamp="3.000000" n="1" vgrp="1">
                               <rend fontfam="Academico" xml:space="preserve">(</rend>
-                              <rend fontfam="Academico" fontstyle="italic" xml:space="preserve">na stronie ale po włosku</rend>
+                              <rend type="role">Mazepa</rend>
+                              <rend fontfam="Academico" fontstyle="italic" xml:space="preserve"> na stronie ale po włosku</rend>
                               <rend fontfam="Academico" xml:space="preserve">)</rend>
                            </dir>
                         </rdg>
@@ -219,13 +220,14 @@
                         <rdg/>
                         <rdg source="#lang-2-ipa">
                            <dir place="above" staff="1" tstamp="3.000000" n="2" vgrp="2">
-                              <rend fontfam="Academico" xml:space="preserve">(na strɔɲɛ)</rend>
+                              <rend fontfam="Academico" xml:space="preserve">(</rend><rend type="role">Mazepa</rend><rend> na strɔɲɛ)</rend>
                            </dir>
                         </rdg>
                         <rdg source="#lang-2-ita">
                            <dir place="above" staff="1" tstamp="3.000000" n="2" vgrp="2">
                               <rend fontfam="Academico" xml:space="preserve">(</rend>
-                              <rend fontfam="Academico" fontstyle="italic" xml:space="preserve">na stronie ale po włosku</rend>
+                              <rend type="role">Mazepa</rend>
+                              <rend fontfam="Academico" fontstyle="italic" xml:space="preserve"> na stronie ale po włosku</rend>
                               <rend fontfam="Academico" xml:space="preserve">)</rend>
                            </dir>
                         </rdg>
@@ -234,7 +236,7 @@
                         <rdg/>
                         <rdg source="#lang-1-pol">
                            <dir place="above" staff="1" tstamp="3.000000" n="3" vgrp="3">
-                              <rend fontfam="Academico" xml:space="preserve">(na stronie)</rend>
+                              <rend fontfam="Academico" xml:space="preserve">(</rend><rend type="role">Mazepa</rend><rend> na stronie)</rend>
                            </dir>
                         </rdg>
                         <rdg source="#lang-1-ipa">
@@ -245,7 +247,7 @@
                         <rdg source="#lang-1-ita">
                            <dir place="above" staff="1" tstamp="3.000000" n="3" vgrp="3">
                               <rend fontfam="Academico" xml:space="preserve">(</rend>
-                              <rend fontfam="Academico" fontstyle="italic" xml:space="preserve">na stronie ale po włosku</rend>
+                              <rend fontfam="Academico" fontstyle="italic" xml:space="preserve"> na stronie ale po włosku</rend>
                               <rend fontfam="Academico" xml:space="preserve">)</rend>
                            </dir>
                         </rdg>
@@ -1161,6 +1163,7 @@
                      <hairpin xml:id="h6c3ufa" staff="1" tstamp="2.750000" tstamp2="0m+3.5000" form="cres" place="above" vgrp="2300" />
                      <slur xml:id="sl61axx" startid="#n3vdm05" endid="#ntu2ewy" curvedir="above" />
                      <!-- <hairpin xml:id="hex316x" place="between" staff="2 3" tstamp="2.000000" tstamp2="1m+4" form="cres" /> -->
+                     <!-- <dynam place="between" staff="2 3" tstamp="2" tstamp2="2m+1" extender="true">cresc.</dynam> -->
                      <dynam place="above" vgrp="100" staff="3" tstamp="2" tstamp2="2m+1" extender="true">cresc.</dynam>
                      <slur xml:id="s1akmx6w" startid="#n727eyx" endid="#n1f4t215" curvedir="above" />
                      <slur xml:id="s1hzm16t" startid="#n1whul49" endid="#n1fczx27" curvedir="above" />
@@ -1540,6 +1543,7 @@
                            </beam>
                         </layer>
                      </staff>
+                     <!-- <dynam xml:id="d1eehje" place="between" staff="2 3" tstamp="1.000000">f</dynam> -->
                      <dynam xml:id="d1eehje" place="above" staff="3" tstamp="1.000000" vgrp="100">f</dynam>
                      <slur xml:id="szu8h3q" startid="#n1xa7u89" endid="#nqimu6i" curvedir="above" />
                   </measure>
