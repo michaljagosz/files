@@ -211,7 +211,7 @@
                            <dir place="above" staff="1" tstamp="3.000000" n="1" vgrp="1">
                               <rend fontfam="Academico" xml:space="preserve">(</rend>
                               <rend type="role">Mazepa</rend>
-                              <rend fontfam="Academico" fontstyle="italic" xml:space="preserve"> na stronie ale po włosku</rend>
+                              <rend fontfam="Academico" fontstyle="italic" xml:space="preserve"> na stronie ale po włosku</rend>
                               <rend fontfam="Academico" xml:space="preserve">)</rend>
                            </dir>
                         </rdg>
@@ -220,14 +220,14 @@
                         <rdg/>
                         <rdg source="#lang-2-ipa">
                            <dir place="above" staff="1" tstamp="3.000000" n="2" vgrp="2">
-                              <rend fontfam="Academico" xml:space="preserve">(</rend><rend type="role">Mazepa</rend><rend> na strɔɲɛ)</rend>
+                              <rend fontfam="Academico" xml:space="preserve">(</rend><rend type="role">Mazepa</rend><rend> na strɔɲɛ)</rend>
                            </dir>
                         </rdg>
                         <rdg source="#lang-2-ita">
                            <dir place="above" staff="1" tstamp="3.000000" n="2" vgrp="2">
                               <rend fontfam="Academico" xml:space="preserve">(</rend>
                               <rend type="role">Mazepa</rend>
-                              <rend fontfam="Academico" fontstyle="italic" xml:space="preserve"> na stronie ale po włosku</rend>
+                              <rend fontfam="Academico" fontstyle="italic" xml:space="preserve"> na stronie ale po włosku</rend>
                               <rend fontfam="Academico" xml:space="preserve">)</rend>
                            </dir>
                         </rdg>
@@ -236,18 +236,18 @@
                         <rdg/>
                         <rdg source="#lang-1-pol">
                            <dir place="above" staff="1" tstamp="3.000000" n="3" vgrp="3">
-                              <rend fontfam="Academico" xml:space="preserve">(</rend><rend type="role">Mazepa</rend><rend> na stronie)</rend>
+                              <rend fontfam="Academico" xml:space="preserve">(</rend><rend type="role">Mazepa</rend><rend> na stronie)</rend>
                            </dir>
                         </rdg>
                         <rdg source="#lang-1-ipa">
                            <dir place="above" staff="1" tstamp="3.000000" n="3" vgrp="3">
-                              <rend fontfam="Academico" xml:space="preserve">(na strɔɲɛ)</rend>
+                              <rend fontfam="Academico" xml:space="preserve">(</rend><rend type="role">Mazepa</rend><rend> na strɔɲɛ)</rend>
                            </dir>
                         </rdg>
                         <rdg source="#lang-1-ita">
                            <dir place="above" staff="1" tstamp="3.000000" n="3" vgrp="3">
                               <rend fontfam="Academico" xml:space="preserve">(</rend>
-                              <rend fontfam="Academico" fontstyle="italic" xml:space="preserve"> na stronie ale po włosku</rend>
+                              <rend fontfam="Academico" fontstyle="italic" xml:space="preserve"> na stronie ale po włosku</rend>
                               <rend fontfam="Academico" xml:space="preserve">)</rend>
                            </dir>
                         </rdg>
