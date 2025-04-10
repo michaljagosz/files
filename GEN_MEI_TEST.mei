@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     meiversion="5.0.0">
+
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title>Przykładowy utwór</title>
+      </titleStmt>
+      <pubStmt>
+        <publisher>Moja aplikacja</publisher>
+      </pubStmt>
+    </fileDesc>
+  </meiHead>
+
+  <music>
+    <body>
+      <mdiv>
+        <score>
+          <scoreDef meter.count="4" meter.unit="4" key.sig="0"/>
+          <section>
+            <staff n="1">
+              <layer n="1" xml:id="layer-original" label="PL" xml:lang="pl">
+                <note pname="c" oct="4" dur="4">
+                  <verse n="1">
+                    <syl>Witaj</syl>
+                  </verse>
+                </note>
+                <note pname="d" oct="4" dur="4">
+                  <verse n="1">
+                    <syl>świecie</syl>
+                  </verse>
+                </note>
+                <rest dur="2"/>
+              </layer>
+
+              <layer n="2" xml:id="layer-translation" label="EN" xml:lang="en">
+                <note pname="c" oct="4" dur="2">
+                  <verse n="2">
+                    <syl>Hello</syl>
+                  </verse>
+                </note>
+                <note pname="d" oct="4" dur="2">
+                  <verse n="2">
+                    <syl>world</syl>
+                  </verse>
+                </note>
+              </layer>
+            </staff>
+          </section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>
